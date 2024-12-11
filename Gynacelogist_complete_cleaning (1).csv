@@ -1,0 +1,701 @@
+,Name,Specialization,Experience (in years),Education,Fee at clinic,Online Fee,Clinic Name,Area,Available From,Available Till,City,Total Fee,Number of Hrs. Available
+0,Dr. Sindhuri Kapu,Gynaecologist,13.0,"MBBS, DNB - Obstetrics & Gynecology",800.0,500.0,Ankura Hospital for Women & Children - Banjara Hills,Hyderabad,10:00:00,18:00:00,Hyderabad,1300,08:00
+1,Dr. Juhul Arvind Patel,Gynaecologist,8.0,"DNB, DGO, Dip. Hospital Administration, Diploma Gynaecological Endoscopy, Kiel Germany, PG...read more",500.0,300.0,Pristyn Care,Hyderabad,10:00:00,20:00:00,Hyderabad,800,10:00
+2,Dr. Paipuru,Gynaecologist,0.0,Not Mentioned,500.0,300.0,Pristyn Care Clinic,Banjara Hills,17:00:00,20:00:00,Hyderabad,500,03:00
+3,Dr M Swapna Reddy,Gynaecologist,17.0,"MBBS, DGO",500.0,300.0,Pristyn care,Hyderabad,09:00:00,18:30:00,Hyderabad,500,09:30
+4,Dr. Sadhvi Reddy,Gynaecologist,14.0,"Fellowship  In Minimal Access Surgery, MS - Obstetrics and Gynaecology, MBBS",500.0,500.0,Vijay Hospital,Dilsukhnagar,11:00:00,17:00:00,Hyderabad,1000,06:00
+5,Dr. Shaivalini Kamarapu,Gynaecologist,13.0,"MBBS, MS - Obstetrics and Gynaecology, FMAS.Laparoscopy, Cosmetic Gynaecology",600.0,600.0,AMVI Hospital,Hyderabad,17:00:00,20:00:00,Hyderabad,1200,03:00
+6,Dr. Radhika Kandula,Gynaecologist,23.0,"MBBS, DNB (Obstetrics and Gyneacology), FNB Reproductive Medicine",300.0,300.0,Institute of Women Health and Fertility,Kukatpally,10:00:00,13:00:00,Hyderabad,600,03:00
+7,Dr. Vijaya Sree J,Gynaecologist,15.0,"MBBS Bachelor of Medicine and Bachelor of Surgery, Diploma in Obstetrics & Gynaecology, MS...read more",500.0,300.0,VIJAYA SREE CLINIC & DIAGNOSTICS,Habsiguda,12:00:00,17:00:00,Hyderabad,800,05:00
+8,Dr. Vani Cherukuri,Gynaecologist,37.0,"MBBS, MD - Obstetrics & Gynaecology, DGO",500.0,300.0,₹ 1,000 onlineEVA Care Clinic- The Every Woman?s Clinic,10:00:00,17:00:00,Hyderabad,500,07:00
+9,Dr. Padma Gandham Gandham,Gynaecologist,34.0,"MBBS, Diploma in Advanced Obstetrics and Gynaecological Ultrasound",300.0,300.0,SVS Clinic,L B Nagar,17:00:00,20:30:00,Hyderabad,600,03:30
+10,Dr. Sumana T,Gynaecologist,22.0,"MBBS, DGO, Diploma in Anesthesiology",600.0,350.0,SLG HOSPITALS,Hyderabad,09:00:00,14:45:00,Hyderabad,950,05:45
+11,Dr. Vindhya Gemaraju,Gynaecologist,20.0,"MBBS, DNB - Obstetrics & Gynecology, DGO",600.0,350.0,SO Poly Clinic,Hyderabad,18:00:00,21:00:00,Hyderabad,950,03:00
+12,Dr. Usha Rani,Gynaecologist,47.0,"MD - Obstetrics & Gynaecology, Diploma in Obstetrics & Gynaecology, MBBS",800.0,700.0,Yashoda Hospitals,Hyderabad,10:00:00,14:30:00,Hyderabad,1500,04:30
+13,Dr. Hima Deepthi.V,Gynaecologist,17.0,"MBBS, MS - Obstetrics and Gynaecology",500.0,300.0,Nova IVI Fertility,Banjara Hills,09:00:00,18:00:00,Hyderabad,800,09:00
+14,Dr. Srividya Tadru,Gynaecologist,5.0,"MS - Obstetrics and Gynaecology, DNB (Obstetrics and Gynecology), Fellowship in Reproducti...read more",300.0,400.0,Samraksha hospital for women and children,Hastinapuram,17:00:00,20:00:00,Hyderabad,700,03:00
+15,Dr. Radhika  Rani Akkineni,Gynaecologist,22.0,"MBBS, MS - Obstetrics and Gynaecology, Fellowship in Infertility",500.0,600.0,Dr. RADHIKA'S FERTILITY CENTER,Hyderabad,17:00:00,19:30:00,Hyderabad,1100,02:30
+16,Dr. Bkn Sudha,Gynaecologist,15.0,DGO,500.0,300.0,SUDHA HOSPITAL,Hyderabad,17:00:00,20:30:00,Hyderabad,800,03:30
+17,Dr. Madhavi Latha,Gynaecologist,23.0,"MBBS, DNB - Obstetrics & Gynecology, DGO",550.0,300.0,Dr. Madhavi's Gynaecology Clinic,Hyderabad,11:30:00,14:00:00,Hyderabad,550,02:30
+18,Dr. Chandana Galidevara,Gynaecologist,15.0,"MRCOG(UK), MS - Obstetrics & Gynecology, DNB (Obstetrics and Gynecology), Fellowship in Mi...read more",600.0,300.0,Satyasree Clinics & Diagnostics,Kondapur,18:30:00,21:30:00,Hyderabad,600,03:00
+19,Dr. Chandrakanth,Gynaecologist,28.0,"Diploma in Psychology and Sexology, Diploma in Obstetrics & Gynaecology, Royal College of ...read more",500.0,200.0,AKSHAYA HOSPITAL,Hyderabad,11:30:00,14:30:00,Hyderabad,700,03:00
+20,Dr. K Nageswari  Rao,Gynaecologist,33.0,"MD, MBBS",600.0,300.0,Sri Swetha Multi Speciality Daycare Surgical Centre,Hyderabad,10:00:00,16:00:00,Hyderabad,600,06:00
+21,Dr. Nuthalapati Suman Latha,Gynaecologist,22.0,"MBBS, DGO",400.0,500.0,Advanced Endocrine & Diabetes Hospital & Research Center,KPHB,10:00:00,14:00:00,Hyderabad,900,04:00
+22,Dr. T Anuradha,Gynaecologist,37.0,"MBBS, DGO",800.0,600.0,Anu's Gynaec,Test Tube&Fertility  Centre,10:00:00,14:00:00,Hyderabad,1400,04:00
+23,Dr. Anuradha  Koduri,Gynaecologist,51.0,"MD - Obstetrtics & Gynaecology, MBBS, FACOG",500.0,300.0,Unknown,Unknown,14:00:00,18:00:00,Hyderabad,0,04:00
+24,Dr. Durga G Rao,Gynaecologist,31.0,"MRCOG, MBBS Bachelor of Medicine and Bachelor of Surgery, DGO",600.0,300.0,Oasis Fertility,Banjara Hills,09:30:00,17:00:00,Hyderabad,600,07:30
+25,Dr. Sunitha Ilinani,Gynaecologist,27.0,"MD - Obstetrics & Gynaecology, MBBS",700.0,300.0,Apollo Fertility,Banjara Hills,11:00:00,14:00:00,Hyderabad,1000,03:00
+26,Dr. Nasreen  Ashfaq,Gynaecologist,29.0,"Diploma in Obstetrics & Gynaecology, MBBS",650.0,300.0,Femcity Women's Hospital,Shaikpet,13:00:00,16:00:00,Hyderabad,650,03:00
+27,Dr. Sweta Agarwal,Gynaecologist,30.0,"MS - Obstetrics and Gynaecology, FRANZCOG (Fellowship of Royal College of Obstric and Gyne...read more",700.0,300.0,Southern Gem Hospital,Basheerbagh,11:00:00,14:00:00,Hyderabad,700,03:00
+28,Dr. Saraschandrika P. V.,Gynaecologist,61.0,"MBBS Bachelor of Medicine and Bachelor of Surgery, MD - Obstetrics & Gynaecology",600.0,300.0,Banjara12 Hospital,Banjara Hills,19:00:00,21:00:00,Hyderabad,600,02:00
+29,Dr. Amishrita Chintawar,Gynaecologist,11.0,"MS - Obstetrics and Gynaecology, MBBS",300.0,250.0,Manasa Hospital,Ramanthapur,10:00:00,16:00:00,Hyderabad,550,06:00
+30,Dr. S Hima Bindu,Gynaecologist,25.0,"MBBS, DGO",700.0,300.0,Ankura Hospital For Women & Children,Hyderabad,09:00:00,15:00:00,Hyderabad,1000,06:00
+31,Dr. Naaz Fatima,Gynaecologist,9.0,"MBBS, MS - Obstetrics and Gynaecology",400.0,200.0,Alladins Clinic,Masab Tank,17:00:00,20:00:00,Hyderabad,600,03:00
+32,Dr. B.Padmavathi Sreenivas,Gynaecologist,28.0,"MBBS, DGO",600.0,300.0,Sri Sai Womens Hospital,Kothapet,17:00:00,20:30:00,Hyderabad,600,03:30
+33,Dr. Sameera Alluri,Gynaecologist,36.0,"MBBS, MD - Obstetrics & Gynaecology",450.0,300.0,Sri Sri Holistic Hospitals,Nizampet,11:00:00,13:00:00,Hyderabad,450,02:00
+34,Dr. Lakshmi Krishna Leela,Gynaecologist,26.0,"Doctor of Medicine (Obstetrics & Gynaecology), Royal College of Obstetricians & Gynaecolog...read more",800.0,300.0,Elbit Diagnostic Centre,Madhapur,17:00:00,18:00:00,Hyderabad,800,01:00
+35,Dr. Farzana Tasneem,Gynaecologist,39.0,Diploma in Obstetrics & Gynaecology,300.0,300.0,INNU CLINIC,Hyderabad,15:30:00,18:00:00,Hyderabad,600,02:30
+36,Dr. Bhavani Reddy A,Gynaecologist,33.0,"MBBS, MD - Obstetrics & Gynaecology",500.0,300.0,Bhavya Multispeciality Hospital,Nagole,19:00:00,20:00:00,Hyderabad,500,01:00
+37,Dr. Sita Reddy,Gynaecologist,32.0,"MBBS Bachelor of Medicine and Bachelor of Surgery, MD - Obstetrtics & Gynaecology",500.0,500.0,Kindle Clinics,Gachibowli,14:00:00,17:00:00,Hyderabad,1000,03:00
+38,Oasis Fertility,Gynaecologist,0.0,Not Mentioned,700.0,300.0,Oasis Fertility,Banjara Hills,09:00:00,17:00:00,Hyderabad,700,08:00
+39,Dr. Swetha Shesham,Gynaecologist,12.0,"MBBS, MS, F.mas,D.mas, Fellowship in Robotic Surgery, Fellowship in Infertility",400.0,300.0,Lakshmi Health Care Hospital,Vanasthalipuram,10:30:00,14:00:00,Hyderabad,400,03:30
+40,Dr. Bharathi Sudha A,Gynaecologist,12.0,"MS, MBBS, Diploma in Reproductive Medicine (Germany), Senior Resident",600.0,500.0,IVY WOMEN AND FERTILITY,Gachibowli,10:00:00,20:00:00,Hyderabad,1100,10:00
+41,Dr. Arpitha Reddy,Gynaecologist,26.0,"MBBS, DGO, MRCOG(UK)",500.0,300.0,Mums Fertility Center,Kukatpally,21:00:00,21:00:00,Hyderabad,500,00:00
+42,Dr. B. Kiranmayee,Gynaecologist,15.0,"Diploma in Reproductive Medicine (Germany), MS - Obstetrics and Gynaecology, MBBS",550.0,300.0,Dr. Kiranmayee  Woman's Clinic,Gachibowli,10:00:00,13:00:00,Hyderabad,550,03:00
+43,Dr. Balamba P,Gynaecologist,58.0,"MBBS, MD - Obstetrtics & Gynaecology",400.0,300.0,Shalini Hospital,Hyderabad,10:00:00,13:00:00,Hyderabad,400,03:00
+44,Dr. Sravana Soujanya,Gynaecologist,15.0,"MBBS, Diploma in Obstetrics & Gyanecology",700.0,300.0,Medics Healthcare,Nanakramguda,10:15:00,12:30:00,Hyderabad,700,02:15
+45,Dr. Madhavi Reddy,Gynaecologist,29.0,"MBBS, DGO",500.0,200.0,Lucerne Clinic for Ladies,Alwal,10:00:00,13:00:00,Hyderabad,700,03:00
+46,Dr. Ayesha Khaliq,Gynaecologist,22.0,"MBBS, MD - Obstetrtics & Gynaecology",300.0,300.0,Health Inn Clinic,Toli Chowki,17:00:00,19:00:00,Hyderabad,300,02:00
+47,Dr. G S K Jyothi Reddy,Gynaecologist,19.0,"MBBS, DGO",450.0,300.0,Sai Shourya's Test Tube Baby Centre,KPHB,19:30:00,20:00:00,Hyderabad,450,00:30
+48,Dr. Swathi Reddy,Gynaecologist,14.0,"MBBS, DGO",500.0,300.0,Himagiri Hospitals,Gachibowli,11:00:00,13:00:00,Hyderabad,500,02:00
+49,Dr. Manav Chintawar,Gynaecologist,8.0,"MS - Obstetrics and Gynaecology, MBBS",300.0,200.0,Manasa Hospital,Ramanthapur,10:30:00,14:00:00,Hyderabad,500,03:30
+50,Dr. Haritha Yalamanchili,Gynaecologist,25.0,"MBBS, MD - Obstetrics & Gynaecology, MRCOG",400.0,300.0,YPR Health Care,Madhapur,09:30:00,14:30:00,Hyderabad,400,05:00
+51,Dr. Sarada Chithajallu,Gynaecologist,21.0,"MBBS, DGO, MRCOG",300.0,300.0,Pegasus Health Care,Kukatpally,10:00:00,13:00:00,Hyderabad,300,03:00
+52,Dr. Jayashree Reddy,Gynaecologist,45.0,"MBBS, DGO, MD- Gynecology  And Obstetrics",900.0,300.0,Ankura Hospital for Women & Children,Kothaguda,11:00:00,14:00:00,Hyderabad,900,03:00
+53,Dr. Vangallu Padmini Silpa,Gynaecologist,21.0,"MBBS, DGO, DNB - Obstetrics and Gynecology",700.0,300.0,Apollo Cradle Kondapur,Kondapur,19:30:00,20:30:00,Hyderabad,700,01:00
+54,Dr. Sri Latha  Sallangula,Gynaecologist,20.0,"MBBS, DGO",200.0,300.0,Magnas V ENT Hospitals,Dilsukhnagar,12:00:00,14:00:00,Hyderabad,200,02:00
+55,Dr. Anupama Singh,Gynaecologist,33.0,"MBBS, DGO",500.0,300.0,Aries Maternity Hospital,Mehdipatnam,11:00:00,15:00:00,Hyderabad,500,04:00
+56,Dr. Samatha Kumar,Gynaecologist,21.0,"MBBS, DNB - Obstetrics and Gynecology",500.0,300.0,Unknown,Unknown,10:00:00,16:00:00,Hyderabad,0,06:00
+57,Dr. S  Srujana,Gynaecologist,18.0,"MBBS, DGO",500.0,300.0,Prasad Hospital,Nacharam,11:00:00,15:00:00,Hyderabad,500,04:00
+58,Dr. Saroja K,Gynaecologist,28.0,"MBBS, DGO",500.0,300.0,Unknown,Unknown,10:00:00,13:00:00,Hyderabad,0,03:00
+59,Dr. Ragini N,Gynaecologist,10.0,"Mbbs, MS -OBGY, Post Graduate Diploma in Sexual & Reproductive Medicine, Fellowship in Rep...read more",500.0,400.0,Iswarya IVF & Fertility Centre Banjara Hills Hyderabad - Best IVF & IUI Treatments,Banjara Hills,09:00:00,17:00:00,Hyderabad,900,08:00
+60,Dr. Sulochana Mortha,Gynaecologist,41.0,"MBBS, MD - Obstetrics & Gynaecology",400.0,300.0,Dr.Sulochana's Hospital,Hafeezpet,10:30:00,13:30:00,Hyderabad,700,03:00
+61,Dr. Sailaja,Gynaecologist,18.0,"MBBS, MD - Obstetrics & Gynaecology, DGO",300.0,300.0,Lakshmi Sailaja Hospital,Jeedimetla,10:00:00,14:00:00,Hyderabad,300,04:00
+62,Dr. Meena Ugale,Gynaecologist,37.0,"MBBS, MD - Obstetrics & Gynaecology, DGO",700.0,300.0,Kirloskar Hospital,Basheerbagh,10:00:00,17:00:00,Hyderabad,700,07:00
+63,Dr. Lakshmi Chirumamilla,Gynaecologist,27.0,"MBBS, MD - Obstetrics & Gynaecology, MRCOG",500.0,300.0,Nova IVF Fertility Clinic -  Hyderabad,Banjara Hills,09:30:00,19:30:00,Hyderabad,500,10:00
+64,Dr. Koka Sreedevi,Gynaecologist,35.0,"MBBS, DGO, D.MAS",600.0,300.0,Srijan Fertility Centre,Jeedimetla,09:00:00,18:00:00,Hyderabad,600,09:00
+65,Dr. Susmitha Gundavaram,Gynaecologist,23.0,"MBBS, MS - Obstetrics and Gynaecology",500.0,300.0,Siri's Clinic for Women & Children,Hyderabad,11:00:00,12:00:00,Hyderabad,500,01:00
+66,Dr. Nikitha Reddy D S,Gynaecologist,10.0,"MBBS, MS - Obstetrics & Gynaecology",500.0,500.0,Vaidya Poly Clinic,Madhapur,18:00:00,20:00:00,Hyderabad,1000,02:00
+67,Dr. M Madhavi,Gynaecologist,33.0,"MBBS, MD - Obstetrics & Gynaecology, DGO",600.0,300.0,Madhavi Clinic,West Marredpally,17:30:00,20:00:00,Hyderabad,600,02:30
+68,Dr. K Nirmala,Gynaecologist,31.0,"MBBS, DGO, DNB",500.0,300.0,Nirmala Maternity,Orthopaedic And General Hospital,19:00:00,20:00:00,Hyderabad,500,01:00
+69,Dr. Wasia Naveed,Gynaecologist,35.0,"MD - Obstetrtics & Gynaecology, MBBS",500.0,300.0,Sahifa Clinic,Malakpet,16:00:00,19:00:00,Hyderabad,500,03:00
+70,Dr. Sridevi Ragi,Gynaecologist,22.0,"MBBS, MD - Obstetrics & Gynaecology",600.0,300.0,Sai Neha Hospital,Kondapur,18:30:00,19:30:00,Hyderabad,600,01:00
+71,Dr. Mini Mohan,Gynaecologist,21.0,"MBBS, DGO, DNB - Obstetrics and Gynecology",600.0,300.0,Ashraya Clinic,Banjara Hills,09:00:00,10:00:00,Hyderabad,600,01:00
+72,Dr. Sarda Reddy,Gynaecologist,34.0,"DGO, MD",600.0,300.0,Shree Hospital,Sri Nagar Colony,19:00:00,21:00:00,Hyderabad,600,02:00
+73,Dr. Vimee Bindra,Gynaecologist,20.0,"MBBS, MS - Obstetrics & Gynaecology, Fellowship in Laparoscopy",500.0,300.0,Unknown,Unknown,10:00:00,13:00:00,Hyderabad,0,03:00
+74,Dr. G Jayanthi,Gynaecologist,22.0,"MBBS, MS - Obstetrics and Gynaecology, Fellowship in Laparoscopy",350.0,300.0,J.S. Hospitals - Ortho,Maternity and General,10:00:00,14:00:00,Hyderabad,350,04:00
+75,Dr. G Premalatha,Gynaecologist,29.0,"MBBS, DGO",600.0,300.0,Vikram Hospital,Madhapur,18:30:00,20:00:00,Hyderabad,600,01:30
+76,Dr. Vrinda Hegde,Gynaecologist,0.0,Not Mentioned,350.0,300.0,Hegde Hospital,Dilsukhnagar,18:30:00,20:30:00,Hyderabad,350,02:00
+77,Dr. Sasikala Kola,Gynaecologist,42.0,Not Mentioned,500.0,300.0,Unknown,Unknown,12:00:00,14:30:00,Hyderabad,0,02:30
+78,Dr. Swathi Hv,Gynaecologist,5.0,"MS - Obstetrics and Gynaecology, DNB (Obstetrics and Gynecology)",500.0,200.0,Care Hospital,Hyderabad,09:30:00,17:00:00,Hyderabad,700,07:30
+79,Dr. Nafeez. S,Gynaecologist,12.0,"MS - Obstetrics and Gynaecology, MBBS",400.0,300.0,Muslim maternity hospital,Hyderabad,09:30:00,16:00:00,Hyderabad,700,06:30
+80,Dr. Jyotsna Prashanth,Gynaecologist,20.0,"MBBS, MS - Obstetrics and Gynaecology",250.0,300.0,Femicare Woman's Clinic and Infertility Centre,Saidabad,10:00:00,13:00:00,Hyderabad,250,03:00
+81,Dr. Radhika Santosh Bhandari,Gynaecologist,29.0,"MBBS, DGO",400.0,300.0,Diya Fertility Centre,Hyderabad,16:00:00,20:00:00,Hyderabad,400,04:00
+82,Dr. Chinmayee Pradhan,Gynaecologist,22.0,"MBBS, DGO, DNB",500.0,300.0,Unknown,Unknown,11:00:00,13:30:00,Hyderabad,0,02:30
+83,Dr. M V D Aruna,Gynaecologist,29.0,"MBBS, DGO, MD - Obstetrics & Gynaecology",700.0,300.0,Oasis Fertility,Hyderabad,10:00:00,17:30:00,Hyderabad,700,07:30
+84,Dr. H Naramada Rao,Gynaecologist,42.0,"MBBS, DGO, DNB - Obstetrics & Gynecology",500.0,300.0,Narmada Fertility Center,Hyderabad,07:00:00,14:00:00,Hyderabad,500,07:00
+85,Dr. Vanamala Swetha,Gynaecologist,16.0,"MBBS, MS - Obstetrics & Gynaecology",500.0,400.0,Madhu's Mother and Child Clinic,Nizampet,17:00:00,18:00:00,Hyderabad,900,01:00
+86,Dr. K  Jansilakshmi,Gynaecologist,38.0,"MBBS, MD - Obstetrics & Gynaecology",150.0,300.0,Sri Bhargavi Hospital,Moti Nagar,18:30:00,20:30:00,Hyderabad,150,02:00
+87,Dr. Padma Kumari,Gynaecologist,33.0,"MBBS, MD - Obstetrics & Gynaecology",500.0,300.0,Omni Hospital,Dilsukhnagar,10:00:00,14:00:00,Hyderabad,500,04:00
+88,Dr. B Kiranmayee,Gynaecologist,16.0,"MBBS, MS - Obstetrics & Gynaecology",550.0,100.0,Kiranmayee Women & Fertility Clinic,Madhapur,10:30:00,13:30:00,Hyderabad,650,03:00
+89,Dr. Narmada H,Gynaecologist,42.0,"MBBS, DGO, DNB - Obstetrics & Gynecology",500.0,300.0,Narmada Test Tube Baby and Speciality Center,East Marredpally,07:00:00,14:00:00,Hyderabad,500,07:00
+90,Dr. B  Radhika,Gynaecologist,24.0,"MBBS, MD - Obstetrics & Gynaecology",600.0,300.0,Medicover Hospitals,Madhapur,11:00:00,15:30:00,Hyderabad,600,04:30
+91,Dr. S Padmavati,Gynaecologist,17.0,"MBBS, DGO",200.0,300.0,Padma clinic,hyderabad,09:00:00,22:00:00,Hyderabad,200,13:00
+92,Dr. Krishna Veni Kandru,Gynaecologist,24.0,"MBBS, DGO",500.0,300.0,Sia Life Hospital (On Call),Kondapur,10:00:00,10:15:00,Hyderabad,500,00:15
+93,Dr. Sushma,Gynaecologist,19.0,"MBBS, DNB - Obstetrics & Gynecology",800.0,300.0,Shreya Hospitals,Hyderabad,09:00:00,15:00:00,Hyderabad,800,06:00
+94,Dr. Padma Chennupaty,Gynaecologist,37.0,"MD - Obstetrics & Gynaecology, MBBS",500.0,300.0,Indira Womens Clinic and Birth Centre,Jubilee Hills,11:00:00,15:00:00,Hyderabad,500,04:00
+95,Dr. Nivedita,Gynaecologist,25.0,"MBBS, MD - Obstetrics & Gynaecology",500.0,300.0,Srishti Women's CLinic    (On Call),Tarnaka,10:00:00,17:00:00,Hyderabad,500,07:00
+96,Dr. Neelima,Gynaecologist,28.0,"MBBS, MD - Obstetrics & Gynaecology, Fellowship in Embryology, Fellowship in Infertility",500.0,300.0,Neelima Hospital,Moti Nagar,10:00:00,14:00:00,Hyderabad,500,04:00
+97,Anusha Patel,Gynaecologist,14.0,"MBBS, MS OBG",300.0,300.0,Habsiguda Polyclinic,Hyderabad,17:00:00,20:00:00,Hyderabad,600,03:00
+98,Dr. Manjula Anagani,Gynaecologist,33.0,"MBBS, Internship, MD (Pathology), MD (Gynaecology & Obstetrics)",500.0,300.0,Unknown,Unknown,11:00:00,13:00:00,Hyderabad,0,02:00
+99,Dr. K Padmaja Devi,Gynaecologist,33.0,"MBBS, DGO",450.0,300.0,Sneha Clinics,KPHB,09:00:00,13:30:00,Hyderabad,450,04:30
+100,Dr. Sindhuri Kapu,Gynaecologist,13.0,"MBBS, DNB - Obstetrics & Gynecology",800.0,500.0,Ankura Hospital for Women & Children - Banjara Hills,Hyderabad,10:00:00,18:00:00,Hyderabad,1300,08:00
+101,Dr. Juhul Arvind Patel,Gynaecologist,8.0,"DNB, DGO, Dip. Hospital Administration, Diploma Gynaecological Endoscopy, Kiel Germany, PG...read more",500.0,300.0,Pristyn Care,Hyderabad,10:00:00,20:00:00,Hyderabad,800,10:00
+102,Dr. Paipuru,Gynaecologist,0.0,Not Mentioned,500.0,300.0,Pristyn Care Clinic,Banjara Hills,17:00:00,20:00:00,Hyderabad,500,03:00
+103,Dr M Swapna Reddy,Gynaecologist,17.0,"MBBS, DGO",500.0,300.0,Pristyn care,Hyderabad,09:00:00,18:30:00,Hyderabad,500,09:30
+104,Dr. Sadhvi Reddy,Gynaecologist,14.0,"Fellowship  In Minimal Access Surgery, MS - Obstetrics and Gynaecology, MBBS",500.0,500.0,Vijay Hospital,Dilsukhnagar,11:00:00,17:00:00,Hyderabad,1000,06:00
+105,Dr. Shaivalini Kamarapu,Gynaecologist,13.0,"MBBS, MS - Obstetrics and Gynaecology, FMAS.Laparoscopy, Cosmetic Gynaecology",600.0,600.0,AMVI Hospital,Hyderabad,17:00:00,20:00:00,Hyderabad,1200,03:00
+106,Dr. Radhika Kandula,Gynaecologist,23.0,"MBBS, DNB (Obstetrics and Gyneacology), FNB Reproductive Medicine",300.0,300.0,Institute of Women Health and Fertility,Kukatpally,10:00:00,13:00:00,Hyderabad,600,03:00
+107,Dr. Vijaya Sree J,Gynaecologist,15.0,"MBBS Bachelor of Medicine and Bachelor of Surgery, Diploma in Obstetrics & Gynaecology, MS...read more",500.0,300.0,VIJAYA SREE CLINIC & DIAGNOSTICS,Habsiguda,12:00:00,17:00:00,Hyderabad,800,05:00
+108,Dr. Vani Cherukuri,Gynaecologist,37.0,"MBBS, MD - Obstetrics & Gynaecology, DGO",500.0,300.0,₹ 1,000 onlineEVA Care Clinic- The Every Woman?s Clinic,10:00:00,17:00:00,Hyderabad,500,07:00
+109,Dr. Padma Gandham Gandham,Gynaecologist,34.0,"MBBS, Diploma in Advanced Obstetrics and Gynaecological Ultrasound",300.0,300.0,SVS Clinic,L B Nagar,17:00:00,20:30:00,Hyderabad,600,03:30
+110,Dr. Sumana T,Gynaecologist,22.0,"MBBS, DGO, Diploma in Anesthesiology",600.0,350.0,SLG HOSPITALS,Hyderabad,09:00:00,14:45:00,Hyderabad,950,05:45
+111,Dr. Vindhya Gemaraju,Gynaecologist,20.0,"MBBS, DNB - Obstetrics & Gynecology, DGO",600.0,350.0,SO Poly Clinic,Hyderabad,18:00:00,21:00:00,Hyderabad,950,03:00
+112,Dr. Usha Rani,Gynaecologist,47.0,"MD - Obstetrics & Gynaecology, Diploma in Obstetrics & Gynaecology, MBBS",800.0,700.0,Yashoda Hospitals,Hyderabad,10:00:00,14:30:00,Hyderabad,1500,04:30
+113,Dr. Hima Deepthi.V,Gynaecologist,17.0,"MBBS, MS - Obstetrics and Gynaecology",500.0,300.0,Nova IVI Fertility,Banjara Hills,09:00:00,18:00:00,Hyderabad,800,09:00
+114,Dr. Srividya Tadru,Gynaecologist,5.0,"MS - Obstetrics and Gynaecology, DNB (Obstetrics and Gynecology), Fellowship in Reproducti...read more",300.0,400.0,Samraksha hospital for women and children,Hastinapuram,17:00:00,20:00:00,Hyderabad,700,03:00
+115,Dr. Radhika  Rani Akkineni,Gynaecologist,22.0,"MBBS, MS - Obstetrics and Gynaecology, Fellowship in Infertility",500.0,600.0,Dr. RADHIKA'S FERTILITY CENTER,Hyderabad,17:00:00,19:30:00,Hyderabad,1100,02:30
+116,Dr. Bkn Sudha,Gynaecologist,15.0,DGO,500.0,300.0,SUDHA HOSPITAL,Hyderabad,17:00:00,20:30:00,Hyderabad,800,03:30
+117,Dr. Madhavi Latha,Gynaecologist,23.0,"MBBS, DNB - Obstetrics & Gynecology, DGO",550.0,300.0,Dr. Madhavi's Gynaecology Clinic,Hyderabad,11:30:00,14:00:00,Hyderabad,550,02:30
+118,Dr. Chandana Galidevara,Gynaecologist,15.0,"MRCOG(UK), MS - Obstetrics & Gynecology, DNB (Obstetrics and Gynecology), Fellowship in Mi...read more",600.0,300.0,Satyasree Clinics & Diagnostics,Kondapur,18:30:00,21:30:00,Hyderabad,600,03:00
+119,Dr. Chandrakanth,Gynaecologist,28.0,"Diploma in Psychology and Sexology, Diploma in Obstetrics & Gynaecology, Royal College of ...read more",500.0,200.0,AKSHAYA HOSPITAL,Hyderabad,11:30:00,14:30:00,Hyderabad,700,03:00
+120,Dr. K Nageswari  Rao,Gynaecologist,33.0,"MD, MBBS",600.0,300.0,Sri Swetha Multi Speciality Daycare Surgical Centre,Hyderabad,10:00:00,16:00:00,Hyderabad,600,06:00
+121,Dr. Nuthalapati Suman Latha,Gynaecologist,22.0,"MBBS, DGO",400.0,500.0,Advanced Endocrine & Diabetes Hospital & Research Center,KPHB,10:00:00,14:00:00,Hyderabad,900,04:00
+122,Dr. T Anuradha,Gynaecologist,37.0,"MBBS, DGO",800.0,600.0,Anu's Gynaec,Test Tube&Fertility  Centre,10:00:00,14:00:00,Hyderabad,1400,04:00
+123,Dr. Anuradha  Koduri,Gynaecologist,51.0,"MD - Obstetrtics & Gynaecology, MBBS, FACOG",500.0,300.0,Unknown,Unknown,14:00:00,18:00:00,Hyderabad,0,04:00
+124,Dr. Durga G Rao,Gynaecologist,31.0,"MRCOG, MBBS Bachelor of Medicine and Bachelor of Surgery, DGO",600.0,300.0,Oasis Fertility,Banjara Hills,09:30:00,17:00:00,Hyderabad,600,07:30
+125,Dr. Sunitha Ilinani,Gynaecologist,27.0,"MD - Obstetrics & Gynaecology, MBBS",700.0,300.0,Apollo Fertility,Banjara Hills,11:00:00,14:00:00,Hyderabad,1000,03:00
+126,Dr. Nasreen  Ashfaq,Gynaecologist,29.0,"Diploma in Obstetrics & Gynaecology, MBBS",650.0,300.0,Femcity Women's Hospital,Shaikpet,13:00:00,16:00:00,Hyderabad,650,03:00
+127,Dr. Sweta Agarwal,Gynaecologist,30.0,"MS - Obstetrics and Gynaecology, FRANZCOG (Fellowship of Royal College of Obstric and Gyne...read more",700.0,300.0,Southern Gem Hospital,Basheerbagh,11:00:00,14:00:00,Hyderabad,700,03:00
+128,Dr. Saraschandrika P. V.,Gynaecologist,61.0,"MBBS Bachelor of Medicine and Bachelor of Surgery, MD - Obstetrics & Gynaecology",600.0,300.0,Banjara12 Hospital,Banjara Hills,19:00:00,21:00:00,Hyderabad,600,02:00
+129,Dr. Amishrita Chintawar,Gynaecologist,11.0,"MS - Obstetrics and Gynaecology, MBBS",300.0,250.0,Manasa Hospital,Ramanthapur,10:00:00,16:00:00,Hyderabad,550,06:00
+130,Dr. S Hima Bindu,Gynaecologist,25.0,"MBBS, DGO",700.0,300.0,Ankura Hospital For Women & Children,Hyderabad,09:00:00,15:00:00,Hyderabad,1000,06:00
+131,Dr. Naaz Fatima,Gynaecologist,9.0,"MBBS, MS - Obstetrics and Gynaecology",400.0,200.0,Alladins Clinic,Masab Tank,17:00:00,20:00:00,Hyderabad,600,03:00
+132,Dr. B.Padmavathi Sreenivas,Gynaecologist,28.0,"MBBS, DGO",600.0,300.0,Sri Sai Womens Hospital,Kothapet,17:00:00,20:30:00,Hyderabad,600,03:30
+133,Dr. Sameera Alluri,Gynaecologist,36.0,"MBBS, MD - Obstetrics & Gynaecology",450.0,300.0,Sri Sri Holistic Hospitals,Nizampet,11:00:00,13:00:00,Hyderabad,450,02:00
+134,Dr. Lakshmi Krishna Leela,Gynaecologist,26.0,"Doctor of Medicine (Obstetrics & Gynaecology), Royal College of Obstetricians & Gynaecolog...read more",800.0,300.0,Elbit Diagnostic Centre,Madhapur,17:00:00,18:00:00,Hyderabad,800,01:00
+135,Dr. Farzana Tasneem,Gynaecologist,39.0,Diploma in Obstetrics & Gynaecology,300.0,300.0,INNU CLINIC,Hyderabad,15:30:00,18:00:00,Hyderabad,600,02:30
+136,Dr. Bhavani Reddy A,Gynaecologist,33.0,"MBBS, MD - Obstetrics & Gynaecology",500.0,300.0,Bhavya Multispeciality Hospital,Nagole,19:00:00,20:00:00,Hyderabad,500,01:00
+137,Dr. Sita Reddy,Gynaecologist,32.0,"MBBS Bachelor of Medicine and Bachelor of Surgery, MD - Obstetrtics & Gynaecology",500.0,500.0,Kindle Clinics,Gachibowli,14:00:00,17:00:00,Hyderabad,1000,03:00
+138,Oasis Fertility,Gynaecologist,0.0,Not Mentioned,700.0,300.0,Oasis Fertility,Banjara Hills,09:00:00,17:00:00,Hyderabad,700,08:00
+139,Dr. Swetha Shesham,Gynaecologist,12.0,"MBBS, MS, F.mas,D.mas, Fellowship in Robotic Surgery, Fellowship in Infertility",400.0,300.0,Lakshmi Health Care Hospital,Vanasthalipuram,10:30:00,14:00:00,Hyderabad,400,03:30
+140,Dr. Bharathi Sudha A,Gynaecologist,12.0,"MS, MBBS, Diploma in Reproductive Medicine (Germany), Senior Resident",600.0,500.0,IVY WOMEN AND FERTILITY,Gachibowli,10:00:00,20:00:00,Hyderabad,1100,10:00
+141,Dr. Arpitha Reddy,Gynaecologist,26.0,"MBBS, DGO, MRCOG(UK)",500.0,300.0,Mums Fertility Center,Kukatpally,21:00:00,21:00:00,Hyderabad,500,00:00
+142,Dr. B. Kiranmayee,Gynaecologist,15.0,"Diploma in Reproductive Medicine (Germany), MS - Obstetrics and Gynaecology, MBBS",550.0,300.0,Dr. Kiranmayee  Woman's Clinic,Gachibowli,10:00:00,13:00:00,Hyderabad,550,03:00
+143,Dr. Balamba P,Gynaecologist,58.0,"MBBS, MD - Obstetrtics & Gynaecology",400.0,300.0,Shalini Hospital,Hyderabad,10:00:00,13:00:00,Hyderabad,400,03:00
+144,Dr. Sravana Soujanya,Gynaecologist,15.0,"MBBS, Diploma in Obstetrics & Gyanecology",700.0,300.0,Medics Healthcare,Nanakramguda,10:15:00,12:30:00,Hyderabad,700,02:15
+145,Dr. Madhavi Reddy,Gynaecologist,29.0,"MBBS, DGO",500.0,200.0,Lucerne Clinic for Ladies,Alwal,10:00:00,13:00:00,Hyderabad,700,03:00
+146,Dr. Ayesha Khaliq,Gynaecologist,22.0,"MBBS, MD - Obstetrtics & Gynaecology",300.0,300.0,Health Inn Clinic,Toli Chowki,17:00:00,19:00:00,Hyderabad,300,02:00
+147,Dr. G S K Jyothi Reddy,Gynaecologist,19.0,"MBBS, DGO",450.0,300.0,Sai Shourya's Test Tube Baby Centre,KPHB,19:30:00,20:00:00,Hyderabad,450,00:30
+148,Dr. Swathi Reddy,Gynaecologist,14.0,"MBBS, DGO",500.0,300.0,Himagiri Hospitals,Gachibowli,11:00:00,13:00:00,Hyderabad,500,02:00
+149,Dr. Manav Chintawar,Gynaecologist,8.0,"MS - Obstetrics and Gynaecology, MBBS",300.0,200.0,Manasa Hospital,Ramanthapur,10:30:00,14:00:00,Hyderabad,500,03:30
+150,Dr. Haritha Yalamanchili,Gynaecologist,25.0,"MBBS, MD - Obstetrics & Gynaecology, MRCOG",400.0,300.0,YPR Health Care,Madhapur,09:30:00,14:30:00,Hyderabad,400,05:00
+151,Dr. Sarada Chithajallu,Gynaecologist,21.0,"MBBS, DGO, MRCOG",300.0,300.0,Pegasus Health Care,Kukatpally,10:00:00,13:00:00,Hyderabad,300,03:00
+152,Dr. Jayashree Reddy,Gynaecologist,45.0,"MBBS, DGO, MD- Gynecology  And Obstetrics",900.0,300.0,Ankura Hospital for Women & Children,Kothaguda,11:00:00,14:00:00,Hyderabad,900,03:00
+153,Dr. Vangallu Padmini Silpa,Gynaecologist,21.0,"MBBS, DGO, DNB - Obstetrics and Gynecology",700.0,300.0,Apollo Cradle Kondapur,Kondapur,19:30:00,20:30:00,Hyderabad,700,01:00
+154,Dr. Sri Latha  Sallangula,Gynaecologist,20.0,"MBBS, DGO",200.0,300.0,Magnas V ENT Hospitals,Dilsukhnagar,12:00:00,14:00:00,Hyderabad,200,02:00
+155,Dr. Anupama Singh,Gynaecologist,33.0,"MBBS, DGO",500.0,300.0,Aries Maternity Hospital,Mehdipatnam,11:00:00,15:00:00,Hyderabad,500,04:00
+156,Dr. Samatha Kumar,Gynaecologist,21.0,"MBBS, DNB - Obstetrics and Gynecology",500.0,300.0,Unknown,Unknown,10:00:00,16:00:00,Hyderabad,0,06:00
+157,Dr. S  Srujana,Gynaecologist,18.0,"MBBS, DGO",500.0,300.0,Prasad Hospital,Nacharam,11:00:00,15:00:00,Hyderabad,500,04:00
+158,Dr. Saroja K,Gynaecologist,28.0,"MBBS, DGO",500.0,300.0,Unknown,Unknown,10:00:00,13:00:00,Hyderabad,0,03:00
+159,Dr. Ragini N,Gynaecologist,10.0,"Mbbs, MS -OBGY, Post Graduate Diploma in Sexual & Reproductive Medicine, Fellowship in Rep...read more",500.0,400.0,Iswarya IVF & Fertility Centre Banjara Hills Hyderabad - Best IVF & IUI Treatments,Banjara Hills,09:00:00,17:00:00,Hyderabad,900,08:00
+160,Dr. Sulochana Mortha,Gynaecologist,41.0,"MBBS, MD - Obstetrics & Gynaecology",400.0,300.0,Dr.Sulochana's Hospital,Hafeezpet,10:30:00,13:30:00,Hyderabad,700,03:00
+161,Dr. Sailaja,Gynaecologist,18.0,"MBBS, MD - Obstetrics & Gynaecology, DGO",300.0,300.0,Lakshmi Sailaja Hospital,Jeedimetla,10:00:00,14:00:00,Hyderabad,300,04:00
+162,Dr. Meena Ugale,Gynaecologist,37.0,"MBBS, MD - Obstetrics & Gynaecology, DGO",700.0,300.0,Kirloskar Hospital,Basheerbagh,10:00:00,17:00:00,Hyderabad,700,07:00
+163,Dr. Lakshmi Chirumamilla,Gynaecologist,27.0,"MBBS, MD - Obstetrics & Gynaecology, MRCOG",500.0,300.0,Nova IVF Fertility Clinic -  Hyderabad,Banjara Hills,09:30:00,19:30:00,Hyderabad,500,10:00
+164,Dr. Koka Sreedevi,Gynaecologist,35.0,"MBBS, DGO, D.MAS",600.0,300.0,Srijan Fertility Centre,Jeedimetla,09:00:00,18:00:00,Hyderabad,600,09:00
+165,Dr. Susmitha Gundavaram,Gynaecologist,23.0,"MBBS, MS - Obstetrics and Gynaecology",500.0,300.0,Siri's Clinic for Women & Children,Hyderabad,11:00:00,12:00:00,Hyderabad,500,01:00
+166,Dr. Nikitha Reddy D S,Gynaecologist,10.0,"MBBS, MS - Obstetrics & Gynaecology",500.0,500.0,Vaidya Poly Clinic,Madhapur,18:00:00,20:00:00,Hyderabad,1000,02:00
+167,Dr. M Madhavi,Gynaecologist,33.0,"MBBS, MD - Obstetrics & Gynaecology, DGO",600.0,300.0,Madhavi Clinic,West Marredpally,17:30:00,20:00:00,Hyderabad,600,02:30
+168,Dr. K Nirmala,Gynaecologist,31.0,"MBBS, DGO, DNB",500.0,300.0,Nirmala Maternity,Orthopaedic And General Hospital,19:00:00,20:00:00,Hyderabad,500,01:00
+169,Dr. Wasia Naveed,Gynaecologist,35.0,"MD - Obstetrtics & Gynaecology, MBBS",500.0,300.0,Sahifa Clinic,Malakpet,16:00:00,19:00:00,Hyderabad,500,03:00
+170,Dr. Sridevi Ragi,Gynaecologist,22.0,"MBBS, MD - Obstetrics & Gynaecology",600.0,300.0,Sai Neha Hospital,Kondapur,18:30:00,19:30:00,Hyderabad,600,01:00
+171,Dr. Mini Mohan,Gynaecologist,21.0,"MBBS, DGO, DNB - Obstetrics and Gynecology",600.0,300.0,Ashraya Clinic,Banjara Hills,09:00:00,10:00:00,Hyderabad,600,01:00
+172,Dr. Sarda Reddy,Gynaecologist,34.0,"DGO, MD",600.0,300.0,Shree Hospital,Sri Nagar Colony,19:00:00,21:00:00,Hyderabad,600,02:00
+173,Dr. Vimee Bindra,Gynaecologist,20.0,"MBBS, MS - Obstetrics & Gynaecology, Fellowship in Laparoscopy",500.0,300.0,Unknown,Unknown,10:00:00,13:00:00,Hyderabad,0,03:00
+174,Dr. G Jayanthi,Gynaecologist,22.0,"MBBS, MS - Obstetrics and Gynaecology, Fellowship in Laparoscopy",350.0,300.0,J.S. Hospitals - Ortho,Maternity and General,10:00:00,14:00:00,Hyderabad,350,04:00
+175,Dr. G Premalatha,Gynaecologist,29.0,"MBBS, DGO",600.0,300.0,Vikram Hospital,Madhapur,18:30:00,20:00:00,Hyderabad,600,01:30
+176,Dr. Vrinda Hegde,Gynaecologist,0.0,Not Mentioned,350.0,300.0,Hegde Hospital,Dilsukhnagar,18:30:00,20:30:00,Hyderabad,350,02:00
+177,Dr. Sasikala Kola,Gynaecologist,42.0,Not Mentioned,500.0,300.0,Unknown,Unknown,12:00:00,14:30:00,Hyderabad,0,02:30
+178,Dr. Swathi Hv,Gynaecologist,5.0,"MS - Obstetrics and Gynaecology, DNB (Obstetrics and Gynecology)",500.0,200.0,Care Hospital,Hyderabad,09:30:00,17:00:00,Hyderabad,700,07:30
+179,Dr. Nafeez. S,Gynaecologist,12.0,"MS - Obstetrics and Gynaecology, MBBS",400.0,300.0,Muslim maternity hospital,Hyderabad,09:30:00,16:00:00,Hyderabad,700,06:30
+180,Dr. Jyotsna Prashanth,Gynaecologist,20.0,"MBBS, MS - Obstetrics and Gynaecology",250.0,300.0,Femicare Woman's Clinic and Infertility Centre,Saidabad,10:00:00,13:00:00,Hyderabad,250,03:00
+181,Dr. Radhika Santosh Bhandari,Gynaecologist,29.0,"MBBS, DGO",400.0,300.0,Diya Fertility Centre,Hyderabad,16:00:00,20:00:00,Hyderabad,400,04:00
+182,Dr. Chinmayee Pradhan,Gynaecologist,22.0,"MBBS, DGO, DNB",500.0,300.0,Unknown,Unknown,11:00:00,13:30:00,Hyderabad,0,02:30
+183,Dr. M V D Aruna,Gynaecologist,29.0,"MBBS, DGO, MD - Obstetrics & Gynaecology",700.0,300.0,Oasis Fertility,Hyderabad,10:00:00,17:30:00,Hyderabad,700,07:30
+184,Dr. H Naramada Rao,Gynaecologist,42.0,"MBBS, DGO, DNB - Obstetrics & Gynecology",500.0,300.0,Narmada Fertility Center,Hyderabad,07:00:00,14:00:00,Hyderabad,500,07:00
+185,Dr. Vanamala Swetha,Gynaecologist,16.0,"MBBS, MS - Obstetrics & Gynaecology",500.0,400.0,Madhu's Mother and Child Clinic,Nizampet,17:00:00,18:00:00,Hyderabad,900,01:00
+186,Dr. K  Jansilakshmi,Gynaecologist,38.0,"MBBS, MD - Obstetrics & Gynaecology",150.0,300.0,Sri Bhargavi Hospital,Moti Nagar,18:30:00,20:30:00,Hyderabad,150,02:00
+187,Dr. Padma Kumari,Gynaecologist,33.0,"MBBS, MD - Obstetrics & Gynaecology",500.0,300.0,Omni Hospital,Dilsukhnagar,10:00:00,14:00:00,Hyderabad,500,04:00
+188,Dr. B Kiranmayee,Gynaecologist,16.0,"MBBS, MS - Obstetrics & Gynaecology",550.0,100.0,Kiranmayee Women & Fertility Clinic,Madhapur,10:30:00,13:30:00,Hyderabad,650,03:00
+189,Dr. Narmada H,Gynaecologist,42.0,"MBBS, DGO, DNB - Obstetrics & Gynecology",500.0,300.0,Narmada Test Tube Baby and Speciality Center,East Marredpally,07:00:00,14:00:00,Hyderabad,500,07:00
+190,Dr. B  Radhika,Gynaecologist,24.0,"MBBS, MD - Obstetrics & Gynaecology",600.0,300.0,Medicover Hospitals,Madhapur,11:00:00,15:30:00,Hyderabad,600,04:30
+191,Dr. S Padmavati,Gynaecologist,17.0,"MBBS, DGO",200.0,300.0,Padma clinic,hyderabad,09:00:00,22:00:00,Hyderabad,200,13:00
+192,Dr. Krishna Veni Kandru,Gynaecologist,24.0,"MBBS, DGO",500.0,300.0,Sia Life Hospital (On Call),Kondapur,10:00:00,10:15:00,Hyderabad,500,00:15
+193,Dr. Sushma,Gynaecologist,19.0,"MBBS, DNB - Obstetrics & Gynecology",800.0,300.0,Shreya Hospitals,Hyderabad,09:00:00,15:00:00,Hyderabad,800,06:00
+194,Dr. Padma Chennupaty,Gynaecologist,37.0,"MD - Obstetrics & Gynaecology, MBBS",500.0,300.0,Indira Womens Clinic and Birth Centre,Jubilee Hills,11:00:00,15:00:00,Hyderabad,500,04:00
+195,Dr. Nivedita,Gynaecologist,25.0,"MBBS, MD - Obstetrics & Gynaecology",500.0,300.0,Srishti Women's CLinic    (On Call),Tarnaka,10:00:00,17:00:00,Hyderabad,500,07:00
+196,Dr. Neelima,Gynaecologist,28.0,"MBBS, MD - Obstetrics & Gynaecology, Fellowship in Embryology, Fellowship in Infertility",500.0,300.0,Neelima Hospital,Moti Nagar,10:00:00,14:00:00,Hyderabad,500,04:00
+197,Anusha Patel,Gynaecologist,14.0,"MBBS, MS OBG",300.0,300.0,Habsiguda Polyclinic,Hyderabad,17:00:00,20:00:00,Hyderabad,600,03:00
+198,Dr. Manjula Anagani,Gynaecologist,33.0,"MBBS, Internship, MD (Pathology), MD (Gynaecology & Obstetrics)",500.0,300.0,Unknown,Unknown,11:00:00,13:00:00,Hyderabad,0,02:00
+199,Dr. K Padmaja Devi,Gynaecologist,33.0,"MBBS, DGO",450.0,300.0,Sneha Clinics,KPHB,09:00:00,13:30:00,Hyderabad,450,04:30
+200,Dr. Sindhuri Kapu,Gynaecologist,13.0,"MBBS, DNB - Obstetrics & Gynecology",800.0,500.0,Ankura Hospital for Women & Children - Banjara Hills,Hyderabad,10:00:00,18:00:00,Hyderabad,1300,08:00
+201,Dr. Juhul Arvind Patel,Gynaecologist,8.0,"DNB, DGO, Dip. Hospital Administration, Diploma Gynaecological Endoscopy, Kiel Germany, PG...read more",500.0,300.0,Pristyn Care,Hyderabad,10:00:00,20:00:00,Hyderabad,800,10:00
+202,Dr. Paipuru,Gynaecologist,0.0,Not Mentioned,500.0,300.0,Pristyn Care Clinic,Banjara Hills,17:00:00,20:00:00,Hyderabad,500,03:00
+203,Dr M Swapna Reddy,Gynaecologist,17.0,"MBBS, DGO",500.0,300.0,Pristyn care,Hyderabad,09:00:00,18:30:00,Hyderabad,500,09:30
+204,Dr. Sadhvi Reddy,Gynaecologist,14.0,"Fellowship  In Minimal Access Surgery, MS - Obstetrics and Gynaecology, MBBS",500.0,500.0,Vijay Hospital,Dilsukhnagar,11:00:00,17:00:00,Hyderabad,1000,06:00
+205,Dr. Shaivalini Kamarapu,Gynaecologist,13.0,"MBBS, MS - Obstetrics and Gynaecology, FMAS.Laparoscopy, Cosmetic Gynaecology",600.0,600.0,AMVI Hospital,Hyderabad,17:00:00,20:00:00,Hyderabad,1200,03:00
+206,Dr. Radhika Kandula,Gynaecologist,23.0,"MBBS, DNB (Obstetrics and Gyneacology), FNB Reproductive Medicine",300.0,300.0,Institute of Women Health and Fertility,Kukatpally,10:00:00,13:00:00,Hyderabad,600,03:00
+207,Dr. Vijaya Sree J,Gynaecologist,15.0,"MBBS Bachelor of Medicine and Bachelor of Surgery, Diploma in Obstetrics & Gynaecology, MS...read more",500.0,300.0,VIJAYA SREE CLINIC & DIAGNOSTICS,Habsiguda,12:00:00,17:00:00,Hyderabad,800,05:00
+208,Dr. Vani Cherukuri,Gynaecologist,37.0,"MBBS, MD - Obstetrics & Gynaecology, DGO",500.0,300.0,₹ 1,000 onlineEVA Care Clinic- The Every Woman?s Clinic,10:00:00,17:00:00,Hyderabad,500,07:00
+209,Dr. Padma Gandham Gandham,Gynaecologist,34.0,"MBBS, Diploma in Advanced Obstetrics and Gynaecological Ultrasound",300.0,300.0,SVS Clinic,L B Nagar,17:00:00,20:30:00,Hyderabad,600,03:30
+210,Dr. Sumana T,Gynaecologist,22.0,"MBBS, DGO, Diploma in Anesthesiology",600.0,350.0,SLG HOSPITALS,Hyderabad,09:00:00,14:45:00,Hyderabad,950,05:45
+211,Dr. Vindhya Gemaraju,Gynaecologist,20.0,"MBBS, DNB - Obstetrics & Gynecology, DGO",600.0,350.0,SO Poly Clinic,Hyderabad,18:00:00,21:00:00,Hyderabad,950,03:00
+212,Dr. Usha Rani,Gynaecologist,47.0,"MD - Obstetrics & Gynaecology, Diploma in Obstetrics & Gynaecology, MBBS",800.0,700.0,Yashoda Hospitals,Hyderabad,10:00:00,14:30:00,Hyderabad,1500,04:30
+213,Dr. Hima Deepthi.V,Gynaecologist,17.0,"MBBS, MS - Obstetrics and Gynaecology",500.0,300.0,Nova IVI Fertility,Banjara Hills,09:00:00,18:00:00,Hyderabad,800,09:00
+214,Dr. Srividya Tadru,Gynaecologist,5.0,"MS - Obstetrics and Gynaecology, DNB (Obstetrics and Gynecology), Fellowship in Reproducti...read more",300.0,400.0,Samraksha hospital for women and children,Hastinapuram,17:00:00,20:00:00,Hyderabad,700,03:00
+215,Dr. Radhika  Rani Akkineni,Gynaecologist,22.0,"MBBS, MS - Obstetrics and Gynaecology, Fellowship in Infertility",500.0,600.0,Dr. RADHIKA'S FERTILITY CENTER,Hyderabad,17:00:00,19:30:00,Hyderabad,1100,02:30
+216,Dr. Bkn Sudha,Gynaecologist,15.0,DGO,500.0,300.0,SUDHA HOSPITAL,Hyderabad,17:00:00,20:30:00,Hyderabad,800,03:30
+217,Dr. Madhavi Latha,Gynaecologist,23.0,"MBBS, DNB - Obstetrics & Gynecology, DGO",550.0,300.0,Dr. Madhavi's Gynaecology Clinic,Hyderabad,11:30:00,14:00:00,Hyderabad,550,02:30
+218,Dr. Chandana Galidevara,Gynaecologist,15.0,"MRCOG(UK), MS - Obstetrics & Gynecology, DNB (Obstetrics and Gynecology), Fellowship in Mi...read more",600.0,300.0,Satyasree Clinics & Diagnostics,Kondapur,18:30:00,21:30:00,Hyderabad,600,03:00
+219,Dr. Chandrakanth,Gynaecologist,28.0,"Diploma in Psychology and Sexology, Diploma in Obstetrics & Gynaecology, Royal College of ...read more",500.0,200.0,AKSHAYA HOSPITAL,Hyderabad,11:30:00,14:30:00,Hyderabad,700,03:00
+220,Dr. K Nageswari  Rao,Gynaecologist,33.0,"MD, MBBS",600.0,300.0,Sri Swetha Multi Speciality Daycare Surgical Centre,Hyderabad,10:00:00,16:00:00,Hyderabad,600,06:00
+221,Dr. Nuthalapati Suman Latha,Gynaecologist,22.0,"MBBS, DGO",400.0,500.0,Advanced Endocrine & Diabetes Hospital & Research Center,KPHB,10:00:00,14:00:00,Hyderabad,900,04:00
+222,Dr. T Anuradha,Gynaecologist,37.0,"MBBS, DGO",800.0,600.0,Anu's Gynaec,Test Tube&Fertility  Centre,10:00:00,14:00:00,Hyderabad,1400,04:00
+223,Dr. Anuradha  Koduri,Gynaecologist,51.0,"MD - Obstetrtics & Gynaecology, MBBS, FACOG",500.0,300.0,Unknown,Unknown,14:00:00,18:00:00,Hyderabad,0,04:00
+224,Dr. Durga G Rao,Gynaecologist,31.0,"MRCOG, MBBS Bachelor of Medicine and Bachelor of Surgery, DGO",600.0,300.0,Oasis Fertility,Banjara Hills,09:30:00,17:00:00,Hyderabad,600,07:30
+225,Dr. Sunitha Ilinani,Gynaecologist,27.0,"MD - Obstetrics & Gynaecology, MBBS",700.0,300.0,Apollo Fertility,Banjara Hills,11:00:00,14:00:00,Hyderabad,1000,03:00
+226,Dr. Nasreen  Ashfaq,Gynaecologist,29.0,"Diploma in Obstetrics & Gynaecology, MBBS",650.0,300.0,Femcity Women's Hospital,Shaikpet,13:00:00,16:00:00,Hyderabad,650,03:00
+227,Dr. Sweta Agarwal,Gynaecologist,30.0,"MS - Obstetrics and Gynaecology, FRANZCOG (Fellowship of Royal College of Obstric and Gyne...read more",700.0,300.0,Southern Gem Hospital,Basheerbagh,11:00:00,14:00:00,Hyderabad,700,03:00
+228,Dr. Saraschandrika P. V.,Gynaecologist,61.0,"MBBS Bachelor of Medicine and Bachelor of Surgery, MD - Obstetrics & Gynaecology",600.0,300.0,Banjara12 Hospital,Banjara Hills,19:00:00,21:00:00,Hyderabad,600,02:00
+229,Dr. Amishrita Chintawar,Gynaecologist,11.0,"MS - Obstetrics and Gynaecology, MBBS",300.0,250.0,Manasa Hospital,Ramanthapur,10:00:00,16:00:00,Hyderabad,550,06:00
+230,Dr. S Hima Bindu,Gynaecologist,25.0,"MBBS, DGO",700.0,300.0,Ankura Hospital For Women & Children,Hyderabad,09:00:00,15:00:00,Hyderabad,1000,06:00
+231,Dr. Naaz Fatima,Gynaecologist,9.0,"MBBS, MS - Obstetrics and Gynaecology",400.0,200.0,Alladins Clinic,Masab Tank,17:00:00,20:00:00,Hyderabad,600,03:00
+232,Dr. B.Padmavathi Sreenivas,Gynaecologist,28.0,"MBBS, DGO",600.0,300.0,Sri Sai Womens Hospital,Kothapet,17:00:00,20:30:00,Hyderabad,600,03:30
+233,Dr. Sameera Alluri,Gynaecologist,36.0,"MBBS, MD - Obstetrics & Gynaecology",450.0,300.0,Sri Sri Holistic Hospitals,Nizampet,11:00:00,13:00:00,Hyderabad,450,02:00
+234,Dr. Lakshmi Krishna Leela,Gynaecologist,26.0,"Doctor of Medicine (Obstetrics & Gynaecology), Royal College of Obstetricians & Gynaecolog...read more",800.0,300.0,Elbit Diagnostic Centre,Madhapur,17:00:00,18:00:00,Hyderabad,800,01:00
+235,Dr. Farzana Tasneem,Gynaecologist,39.0,Diploma in Obstetrics & Gynaecology,300.0,300.0,INNU CLINIC,Hyderabad,15:30:00,18:00:00,Hyderabad,600,02:30
+236,Dr. Bhavani Reddy A,Gynaecologist,33.0,"MBBS, MD - Obstetrics & Gynaecology",500.0,300.0,Bhavya Multispeciality Hospital,Nagole,19:00:00,20:00:00,Hyderabad,500,01:00
+237,Dr. Sita Reddy,Gynaecologist,32.0,"MBBS Bachelor of Medicine and Bachelor of Surgery, MD - Obstetrtics & Gynaecology",500.0,500.0,Kindle Clinics,Gachibowli,14:00:00,17:00:00,Hyderabad,1000,03:00
+238,Oasis Fertility,Gynaecologist,0.0,Not Mentioned,700.0,300.0,Oasis Fertility,Banjara Hills,09:00:00,17:00:00,Hyderabad,700,08:00
+239,Dr. Swetha Shesham,Gynaecologist,12.0,"MBBS, MS, F.mas,D.mas, Fellowship in Robotic Surgery, Fellowship in Infertility",400.0,300.0,Lakshmi Health Care Hospital,Vanasthalipuram,10:30:00,14:00:00,Hyderabad,400,03:30
+240,Dr. Bharathi Sudha A,Gynaecologist,12.0,"MS, MBBS, Diploma in Reproductive Medicine (Germany), Senior Resident",600.0,500.0,IVY WOMEN AND FERTILITY,Gachibowli,10:00:00,20:00:00,Hyderabad,1100,10:00
+241,Dr. Arpitha Reddy,Gynaecologist,26.0,"MBBS, DGO, MRCOG(UK)",500.0,300.0,Mums Fertility Center,Kukatpally,21:00:00,21:00:00,Hyderabad,500,00:00
+242,Dr. B. Kiranmayee,Gynaecologist,15.0,"Diploma in Reproductive Medicine (Germany), MS - Obstetrics and Gynaecology, MBBS",550.0,300.0,Dr. Kiranmayee  Woman's Clinic,Gachibowli,10:00:00,13:00:00,Hyderabad,550,03:00
+243,Dr. Balamba P,Gynaecologist,58.0,"MBBS, MD - Obstetrtics & Gynaecology",400.0,300.0,Shalini Hospital,Hyderabad,10:00:00,13:00:00,Hyderabad,400,03:00
+244,Dr. Sravana Soujanya,Gynaecologist,15.0,"MBBS, Diploma in Obstetrics & Gyanecology",700.0,300.0,Medics Healthcare,Nanakramguda,10:15:00,12:30:00,Hyderabad,700,02:15
+245,Dr. Madhavi Reddy,Gynaecologist,29.0,"MBBS, DGO",500.0,200.0,Lucerne Clinic for Ladies,Alwal,10:00:00,13:00:00,Hyderabad,700,03:00
+246,Dr. Ayesha Khaliq,Gynaecologist,22.0,"MBBS, MD - Obstetrtics & Gynaecology",300.0,300.0,Health Inn Clinic,Toli Chowki,17:00:00,19:00:00,Hyderabad,300,02:00
+247,Dr. G S K Jyothi Reddy,Gynaecologist,19.0,"MBBS, DGO",450.0,300.0,Sai Shourya's Test Tube Baby Centre,KPHB,19:30:00,20:00:00,Hyderabad,450,00:30
+248,Dr. Swathi Reddy,Gynaecologist,14.0,"MBBS, DGO",500.0,300.0,Himagiri Hospitals,Gachibowli,11:00:00,13:00:00,Hyderabad,500,02:00
+249,Dr. Manav Chintawar,Gynaecologist,8.0,"MS - Obstetrics and Gynaecology, MBBS",300.0,200.0,Manasa Hospital,Ramanthapur,10:30:00,14:00:00,Hyderabad,500,03:30
+250,Dr. Haritha Yalamanchili,Gynaecologist,25.0,"MBBS, MD - Obstetrics & Gynaecology, MRCOG",400.0,300.0,YPR Health Care,Madhapur,09:30:00,14:30:00,Hyderabad,400,05:00
+251,Dr. Sarada Chithajallu,Gynaecologist,21.0,"MBBS, DGO, MRCOG",300.0,300.0,Pegasus Health Care,Kukatpally,10:00:00,13:00:00,Hyderabad,300,03:00
+252,Dr. Jayashree Reddy,Gynaecologist,45.0,"MBBS, DGO, MD- Gynecology  And Obstetrics",900.0,300.0,Ankura Hospital for Women & Children,Kothaguda,11:00:00,14:00:00,Hyderabad,900,03:00
+253,Dr. Vangallu Padmini Silpa,Gynaecologist,21.0,"MBBS, DGO, DNB - Obstetrics and Gynecology",700.0,300.0,Apollo Cradle Kondapur,Kondapur,19:30:00,20:30:00,Hyderabad,700,01:00
+254,Dr. Sri Latha  Sallangula,Gynaecologist,20.0,"MBBS, DGO",200.0,300.0,Magnas V ENT Hospitals,Dilsukhnagar,12:00:00,14:00:00,Hyderabad,200,02:00
+255,Dr. Anupama Singh,Gynaecologist,33.0,"MBBS, DGO",500.0,300.0,Aries Maternity Hospital,Mehdipatnam,11:00:00,15:00:00,Hyderabad,500,04:00
+256,Dr. Samatha Kumar,Gynaecologist,21.0,"MBBS, DNB - Obstetrics and Gynecology",500.0,300.0,Unknown,Unknown,10:00:00,16:00:00,Hyderabad,0,06:00
+257,Dr. S  Srujana,Gynaecologist,18.0,"MBBS, DGO",500.0,300.0,Prasad Hospital,Nacharam,11:00:00,15:00:00,Hyderabad,500,04:00
+258,Dr. Saroja K,Gynaecologist,28.0,"MBBS, DGO",500.0,300.0,Unknown,Unknown,10:00:00,13:00:00,Hyderabad,0,03:00
+259,Dr. Ragini N,Gynaecologist,10.0,"Mbbs, MS -OBGY, Post Graduate Diploma in Sexual & Reproductive Medicine, Fellowship in Rep...read more",500.0,400.0,Iswarya IVF & Fertility Centre Banjara Hills Hyderabad - Best IVF & IUI Treatments,Banjara Hills,09:00:00,17:00:00,Hyderabad,900,08:00
+260,Dr. Sulochana Mortha,Gynaecologist,41.0,"MBBS, MD - Obstetrics & Gynaecology",400.0,300.0,Dr.Sulochana's Hospital,Hafeezpet,10:30:00,13:30:00,Hyderabad,700,03:00
+261,Dr. Sailaja,Gynaecologist,18.0,"MBBS, MD - Obstetrics & Gynaecology, DGO",300.0,300.0,Lakshmi Sailaja Hospital,Jeedimetla,10:00:00,14:00:00,Hyderabad,300,04:00
+262,Dr. Meena Ugale,Gynaecologist,37.0,"MBBS, MD - Obstetrics & Gynaecology, DGO",700.0,300.0,Kirloskar Hospital,Basheerbagh,10:00:00,17:00:00,Hyderabad,700,07:00
+263,Dr. Lakshmi Chirumamilla,Gynaecologist,27.0,"MBBS, MD - Obstetrics & Gynaecology, MRCOG",500.0,300.0,Nova IVF Fertility Clinic -  Hyderabad,Banjara Hills,09:30:00,19:30:00,Hyderabad,500,10:00
+264,Dr. Koka Sreedevi,Gynaecologist,35.0,"MBBS, DGO, D.MAS",600.0,300.0,Srijan Fertility Centre,Jeedimetla,09:00:00,18:00:00,Hyderabad,600,09:00
+265,Dr. Susmitha Gundavaram,Gynaecologist,23.0,"MBBS, MS - Obstetrics and Gynaecology",500.0,300.0,Siri's Clinic for Women & Children,Hyderabad,11:00:00,12:00:00,Hyderabad,500,01:00
+266,Dr. Nikitha Reddy D S,Gynaecologist,10.0,"MBBS, MS - Obstetrics & Gynaecology",500.0,500.0,Vaidya Poly Clinic,Madhapur,18:00:00,20:00:00,Hyderabad,1000,02:00
+267,Dr. M Madhavi,Gynaecologist,33.0,"MBBS, MD - Obstetrics & Gynaecology, DGO",600.0,300.0,Madhavi Clinic,West Marredpally,17:30:00,20:00:00,Hyderabad,600,02:30
+268,Dr. K Nirmala,Gynaecologist,31.0,"MBBS, DGO, DNB",500.0,300.0,Nirmala Maternity,Orthopaedic And General Hospital,19:00:00,20:00:00,Hyderabad,500,01:00
+269,Dr. Wasia Naveed,Gynaecologist,35.0,"MD - Obstetrtics & Gynaecology, MBBS",500.0,300.0,Sahifa Clinic,Malakpet,16:00:00,19:00:00,Hyderabad,500,03:00
+270,Dr. Sridevi Ragi,Gynaecologist,22.0,"MBBS, MD - Obstetrics & Gynaecology",600.0,300.0,Sai Neha Hospital,Kondapur,18:30:00,19:30:00,Hyderabad,600,01:00
+271,Dr. Mini Mohan,Gynaecologist,21.0,"MBBS, DGO, DNB - Obstetrics and Gynecology",600.0,300.0,Ashraya Clinic,Banjara Hills,09:00:00,10:00:00,Hyderabad,600,01:00
+272,Dr. Sarda Reddy,Gynaecologist,34.0,"DGO, MD",600.0,300.0,Shree Hospital,Sri Nagar Colony,19:00:00,21:00:00,Hyderabad,600,02:00
+273,Dr. Vimee Bindra,Gynaecologist,20.0,"MBBS, MS - Obstetrics & Gynaecology, Fellowship in Laparoscopy",500.0,300.0,Unknown,Unknown,10:00:00,13:00:00,Hyderabad,0,03:00
+274,Dr. G Jayanthi,Gynaecologist,22.0,"MBBS, MS - Obstetrics and Gynaecology, Fellowship in Laparoscopy",350.0,300.0,J.S. Hospitals - Ortho,Maternity and General,10:00:00,14:00:00,Hyderabad,350,04:00
+275,Dr. G Premalatha,Gynaecologist,29.0,"MBBS, DGO",600.0,300.0,Vikram Hospital,Madhapur,18:30:00,20:00:00,Hyderabad,600,01:30
+276,Dr. Vrinda Hegde,Gynaecologist,0.0,Not Mentioned,350.0,300.0,Hegde Hospital,Dilsukhnagar,18:30:00,20:30:00,Hyderabad,350,02:00
+277,Dr. Sasikala Kola,Gynaecologist,42.0,Not Mentioned,500.0,300.0,Unknown,Unknown,12:00:00,14:30:00,Hyderabad,0,02:30
+278,Dr. Swathi Hv,Gynaecologist,5.0,"MS - Obstetrics and Gynaecology, DNB (Obstetrics and Gynecology)",500.0,200.0,Care Hospital,Hyderabad,09:30:00,17:00:00,Hyderabad,700,07:30
+279,Dr. Nafeez. S,Gynaecologist,12.0,"MS - Obstetrics and Gynaecology, MBBS",400.0,300.0,Muslim maternity hospital,Hyderabad,09:30:00,16:00:00,Hyderabad,700,06:30
+280,Dr. Jyotsna Prashanth,Gynaecologist,20.0,"MBBS, MS - Obstetrics and Gynaecology",250.0,300.0,Femicare Woman's Clinic and Infertility Centre,Saidabad,10:00:00,13:00:00,Hyderabad,250,03:00
+281,Dr. Radhika Santosh Bhandari,Gynaecologist,29.0,"MBBS, DGO",400.0,300.0,Diya Fertility Centre,Hyderabad,16:00:00,20:00:00,Hyderabad,400,04:00
+282,Dr. Chinmayee Pradhan,Gynaecologist,22.0,"MBBS, DGO, DNB",500.0,300.0,Unknown,Unknown,11:00:00,13:30:00,Hyderabad,0,02:30
+283,Dr. M V D Aruna,Gynaecologist,29.0,"MBBS, DGO, MD - Obstetrics & Gynaecology",700.0,300.0,Oasis Fertility,Hyderabad,10:00:00,17:30:00,Hyderabad,700,07:30
+284,Dr. H Naramada Rao,Gynaecologist,42.0,"MBBS, DGO, DNB - Obstetrics & Gynecology",500.0,300.0,Narmada Fertility Center,Hyderabad,07:00:00,14:00:00,Hyderabad,500,07:00
+285,Dr. Vanamala Swetha,Gynaecologist,16.0,"MBBS, MS - Obstetrics & Gynaecology",500.0,400.0,Madhu's Mother and Child Clinic,Nizampet,17:00:00,18:00:00,Hyderabad,900,01:00
+286,Dr. K  Jansilakshmi,Gynaecologist,38.0,"MBBS, MD - Obstetrics & Gynaecology",150.0,300.0,Sri Bhargavi Hospital,Moti Nagar,18:30:00,20:30:00,Hyderabad,150,02:00
+287,Dr. Padma Kumari,Gynaecologist,33.0,"MBBS, MD - Obstetrics & Gynaecology",500.0,300.0,Omni Hospital,Dilsukhnagar,10:00:00,14:00:00,Hyderabad,500,04:00
+288,Dr. B Kiranmayee,Gynaecologist,16.0,"MBBS, MS - Obstetrics & Gynaecology",550.0,100.0,Kiranmayee Women & Fertility Clinic,Madhapur,10:30:00,13:30:00,Hyderabad,650,03:00
+289,Dr. Narmada H,Gynaecologist,42.0,"MBBS, DGO, DNB - Obstetrics & Gynecology",500.0,300.0,Narmada Test Tube Baby and Speciality Center,East Marredpally,07:00:00,14:00:00,Hyderabad,500,07:00
+290,Dr. B  Radhika,Gynaecologist,24.0,"MBBS, MD - Obstetrics & Gynaecology",600.0,300.0,Medicover Hospitals,Madhapur,11:00:00,15:30:00,Hyderabad,600,04:30
+291,Dr. S Padmavati,Gynaecologist,17.0,"MBBS, DGO",200.0,300.0,Padma clinic,hyderabad,09:00:00,22:00:00,Hyderabad,200,13:00
+292,Dr. Krishna Veni Kandru,Gynaecologist,24.0,"MBBS, DGO",500.0,300.0,Sia Life Hospital (On Call),Kondapur,10:00:00,10:15:00,Hyderabad,500,00:15
+293,Dr. Sushma,Gynaecologist,19.0,"MBBS, DNB - Obstetrics & Gynecology",800.0,300.0,Shreya Hospitals,Hyderabad,09:00:00,15:00:00,Hyderabad,800,06:00
+294,Dr. Padma Chennupaty,Gynaecologist,37.0,"MD - Obstetrics & Gynaecology, MBBS",500.0,300.0,Indira Womens Clinic and Birth Centre,Jubilee Hills,11:00:00,15:00:00,Hyderabad,500,04:00
+295,Dr. Nivedita,Gynaecologist,25.0,"MBBS, MD - Obstetrics & Gynaecology",500.0,300.0,Srishti Women's CLinic    (On Call),Tarnaka,10:00:00,17:00:00,Hyderabad,500,07:00
+296,Dr. Neelima,Gynaecologist,28.0,"MBBS, MD - Obstetrics & Gynaecology, Fellowship in Embryology, Fellowship in Infertility",500.0,300.0,Neelima Hospital,Moti Nagar,10:00:00,14:00:00,Hyderabad,500,04:00
+297,Anusha Patel,Gynaecologist,14.0,"MBBS, MS OBG",300.0,300.0,Habsiguda Polyclinic,Hyderabad,17:00:00,20:00:00,Hyderabad,600,03:00
+298,Dr. Manjula Anagani,Gynaecologist,33.0,"MBBS, Internship, MD (Pathology), MD (Gynaecology & Obstetrics)",500.0,300.0,Unknown,Unknown,11:00:00,13:00:00,Hyderabad,0,02:00
+299,Dr. K Padmaja Devi,Gynaecologist,33.0,"MBBS, DGO",450.0,300.0,Sneha Clinics,KPHB,09:00:00,13:30:00,Hyderabad,450,04:30
+300,Dr. Sindhuri Kapu,Gynaecologist,13.0,"MBBS, DNB - Obstetrics & Gynecology",800.0,500.0,Ankura Hospital for Women & Children - Banjara Hills,Hyderabad,10:00:00,18:00:00,Hyderabad,1300,08:00
+301,Dr. Juhul Arvind Patel,Gynaecologist,8.0,"DNB, DGO, Dip. Hospital Administration, Diploma Gynaecological Endoscopy, Kiel Germany, PG...read more",500.0,300.0,Pristyn Care,Hyderabad,10:00:00,20:00:00,Hyderabad,800,10:00
+302,Dr. Paipuru,Gynaecologist,0.0,Not Mentioned,500.0,300.0,Pristyn Care Clinic,Banjara Hills,17:00:00,20:00:00,Hyderabad,500,03:00
+303,Dr M Swapna Reddy,Gynaecologist,17.0,"MBBS, DGO",500.0,300.0,Pristyn care,Hyderabad,09:00:00,18:30:00,Hyderabad,500,09:30
+304,Dr. Sadhvi Reddy,Gynaecologist,14.0,"Fellowship  In Minimal Access Surgery, MS - Obstetrics and Gynaecology, MBBS",500.0,500.0,Vijay Hospital,Dilsukhnagar,11:00:00,17:00:00,Hyderabad,1000,06:00
+305,Dr. Shaivalini Kamarapu,Gynaecologist,13.0,"MBBS, MS - Obstetrics and Gynaecology, FMAS.Laparoscopy, Cosmetic Gynaecology",600.0,600.0,AMVI Hospital,Hyderabad,17:00:00,20:00:00,Hyderabad,1200,03:00
+306,Dr. Radhika Kandula,Gynaecologist,23.0,"MBBS, DNB (Obstetrics and Gyneacology), FNB Reproductive Medicine",300.0,300.0,Institute of Women Health and Fertility,Kukatpally,10:00:00,13:00:00,Hyderabad,600,03:00
+307,Dr. Vijaya Sree J,Gynaecologist,15.0,"MBBS Bachelor of Medicine and Bachelor of Surgery, Diploma in Obstetrics & Gynaecology, MS...read more",500.0,300.0,VIJAYA SREE CLINIC & DIAGNOSTICS,Habsiguda,12:00:00,17:00:00,Hyderabad,800,05:00
+308,Dr. Vani Cherukuri,Gynaecologist,37.0,"MBBS, MD - Obstetrics & Gynaecology, DGO",500.0,300.0,₹ 1,000 onlineEVA Care Clinic- The Every Woman?s Clinic,10:00:00,17:00:00,Hyderabad,500,07:00
+309,Dr. Padma Gandham Gandham,Gynaecologist,34.0,"MBBS, Diploma in Advanced Obstetrics and Gynaecological Ultrasound",300.0,300.0,SVS Clinic,L B Nagar,17:00:00,20:30:00,Hyderabad,600,03:30
+310,Dr. Sumana T,Gynaecologist,22.0,"MBBS, DGO, Diploma in Anesthesiology",600.0,350.0,SLG HOSPITALS,Hyderabad,09:00:00,14:45:00,Hyderabad,950,05:45
+311,Dr. Vindhya Gemaraju,Gynaecologist,20.0,"MBBS, DNB - Obstetrics & Gynecology, DGO",600.0,350.0,SO Poly Clinic,Hyderabad,18:00:00,21:00:00,Hyderabad,950,03:00
+312,Dr. Usha Rani,Gynaecologist,47.0,"MD - Obstetrics & Gynaecology, Diploma in Obstetrics & Gynaecology, MBBS",800.0,700.0,Yashoda Hospitals,Hyderabad,10:00:00,14:30:00,Hyderabad,1500,04:30
+313,Dr. Hima Deepthi.V,Gynaecologist,17.0,"MBBS, MS - Obstetrics and Gynaecology",500.0,300.0,Nova IVI Fertility,Banjara Hills,09:00:00,18:00:00,Hyderabad,800,09:00
+314,Dr. Srividya Tadru,Gynaecologist,5.0,"MS - Obstetrics and Gynaecology, DNB (Obstetrics and Gynecology), Fellowship in Reproducti...read more",300.0,400.0,Samraksha hospital for women and children,Hastinapuram,17:00:00,20:00:00,Hyderabad,700,03:00
+315,Dr. Radhika  Rani Akkineni,Gynaecologist,22.0,"MBBS, MS - Obstetrics and Gynaecology, Fellowship in Infertility",500.0,600.0,Dr. RADHIKA'S FERTILITY CENTER,Hyderabad,17:00:00,19:30:00,Hyderabad,1100,02:30
+316,Dr. Bkn Sudha,Gynaecologist,15.0,DGO,500.0,300.0,SUDHA HOSPITAL,Hyderabad,17:00:00,20:30:00,Hyderabad,800,03:30
+317,Dr. Madhavi Latha,Gynaecologist,23.0,"MBBS, DNB - Obstetrics & Gynecology, DGO",550.0,300.0,Dr. Madhavi's Gynaecology Clinic,Hyderabad,11:30:00,14:00:00,Hyderabad,550,02:30
+318,Dr. Chandana Galidevara,Gynaecologist,15.0,"MRCOG(UK), MS - Obstetrics & Gynecology, DNB (Obstetrics and Gynecology), Fellowship in Mi...read more",600.0,300.0,Satyasree Clinics & Diagnostics,Kondapur,18:30:00,21:30:00,Hyderabad,600,03:00
+319,Dr. Chandrakanth,Gynaecologist,28.0,"Diploma in Psychology and Sexology, Diploma in Obstetrics & Gynaecology, Royal College of ...read more",500.0,200.0,AKSHAYA HOSPITAL,Hyderabad,11:30:00,14:30:00,Hyderabad,700,03:00
+320,Dr. K Nageswari  Rao,Gynaecologist,33.0,"MD, MBBS",600.0,300.0,Sri Swetha Multi Speciality Daycare Surgical Centre,Hyderabad,10:00:00,16:00:00,Hyderabad,600,06:00
+321,Dr. Nuthalapati Suman Latha,Gynaecologist,22.0,"MBBS, DGO",400.0,500.0,Advanced Endocrine & Diabetes Hospital & Research Center,KPHB,10:00:00,14:00:00,Hyderabad,900,04:00
+322,Dr. T Anuradha,Gynaecologist,37.0,"MBBS, DGO",800.0,600.0,Anu's Gynaec,Test Tube&Fertility  Centre,10:00:00,14:00:00,Hyderabad,1400,04:00
+323,Dr. Anuradha  Koduri,Gynaecologist,51.0,"MD - Obstetrtics & Gynaecology, MBBS, FACOG",500.0,300.0,Unknown,Unknown,14:00:00,18:00:00,Hyderabad,0,04:00
+324,Dr. Durga G Rao,Gynaecologist,31.0,"MRCOG, MBBS Bachelor of Medicine and Bachelor of Surgery, DGO",600.0,300.0,Oasis Fertility,Banjara Hills,09:30:00,17:00:00,Hyderabad,600,07:30
+325,Dr. Sunitha Ilinani,Gynaecologist,27.0,"MD - Obstetrics & Gynaecology, MBBS",700.0,300.0,Apollo Fertility,Banjara Hills,11:00:00,14:00:00,Hyderabad,1000,03:00
+326,Dr. Nasreen  Ashfaq,Gynaecologist,29.0,"Diploma in Obstetrics & Gynaecology, MBBS",650.0,300.0,Femcity Women's Hospital,Shaikpet,13:00:00,16:00:00,Hyderabad,650,03:00
+327,Dr. Sweta Agarwal,Gynaecologist,30.0,"MS - Obstetrics and Gynaecology, FRANZCOG (Fellowship of Royal College of Obstric and Gyne...read more",700.0,300.0,Southern Gem Hospital,Basheerbagh,11:00:00,14:00:00,Hyderabad,700,03:00
+328,Dr. Saraschandrika P. V.,Gynaecologist,61.0,"MBBS Bachelor of Medicine and Bachelor of Surgery, MD - Obstetrics & Gynaecology",600.0,300.0,Banjara12 Hospital,Banjara Hills,19:00:00,21:00:00,Hyderabad,600,02:00
+329,Dr. Amishrita Chintawar,Gynaecologist,11.0,"MS - Obstetrics and Gynaecology, MBBS",300.0,250.0,Manasa Hospital,Ramanthapur,10:00:00,16:00:00,Hyderabad,550,06:00
+330,Dr. S Hima Bindu,Gynaecologist,25.0,"MBBS, DGO",700.0,300.0,Ankura Hospital For Women & Children,Hyderabad,09:00:00,15:00:00,Hyderabad,1000,06:00
+331,Dr. Naaz Fatima,Gynaecologist,9.0,"MBBS, MS - Obstetrics and Gynaecology",400.0,200.0,Alladins Clinic,Masab Tank,17:00:00,20:00:00,Hyderabad,600,03:00
+332,Dr. B.Padmavathi Sreenivas,Gynaecologist,28.0,"MBBS, DGO",600.0,300.0,Sri Sai Womens Hospital,Kothapet,17:00:00,20:30:00,Hyderabad,600,03:30
+333,Dr. Sameera Alluri,Gynaecologist,36.0,"MBBS, MD - Obstetrics & Gynaecology",450.0,300.0,Sri Sri Holistic Hospitals,Nizampet,11:00:00,13:00:00,Hyderabad,450,02:00
+334,Dr. Lakshmi Krishna Leela,Gynaecologist,26.0,"Doctor of Medicine (Obstetrics & Gynaecology), Royal College of Obstetricians & Gynaecolog...read more",800.0,300.0,Elbit Diagnostic Centre,Madhapur,17:00:00,18:00:00,Hyderabad,800,01:00
+335,Dr. Farzana Tasneem,Gynaecologist,39.0,Diploma in Obstetrics & Gynaecology,300.0,300.0,INNU CLINIC,Hyderabad,15:30:00,18:00:00,Hyderabad,600,02:30
+336,Dr. Bhavani Reddy A,Gynaecologist,33.0,"MBBS, MD - Obstetrics & Gynaecology",500.0,300.0,Bhavya Multispeciality Hospital,Nagole,19:00:00,20:00:00,Hyderabad,500,01:00
+337,Dr. Sita Reddy,Gynaecologist,32.0,"MBBS Bachelor of Medicine and Bachelor of Surgery, MD - Obstetrtics & Gynaecology",500.0,500.0,Kindle Clinics,Gachibowli,14:00:00,17:00:00,Hyderabad,1000,03:00
+338,Oasis Fertility,Gynaecologist,0.0,Not Mentioned,700.0,300.0,Oasis Fertility,Banjara Hills,09:00:00,17:00:00,Hyderabad,700,08:00
+339,Dr. Swetha Shesham,Gynaecologist,12.0,"MBBS, MS, F.mas,D.mas, Fellowship in Robotic Surgery, Fellowship in Infertility",400.0,300.0,Lakshmi Health Care Hospital,Vanasthalipuram,10:30:00,14:00:00,Hyderabad,400,03:30
+340,Dr. Bharathi Sudha A,Gynaecologist,12.0,"MS, MBBS, Diploma in Reproductive Medicine (Germany), Senior Resident",600.0,500.0,IVY WOMEN AND FERTILITY,Gachibowli,10:00:00,20:00:00,Hyderabad,1100,10:00
+341,Dr. Arpitha Reddy,Gynaecologist,26.0,"MBBS, DGO, MRCOG(UK)",500.0,300.0,Mums Fertility Center,Kukatpally,21:00:00,21:00:00,Hyderabad,500,00:00
+342,Dr. B. Kiranmayee,Gynaecologist,15.0,"Diploma in Reproductive Medicine (Germany), MS - Obstetrics and Gynaecology, MBBS",550.0,300.0,Dr. Kiranmayee  Woman's Clinic,Gachibowli,10:00:00,13:00:00,Hyderabad,550,03:00
+343,Dr. Balamba P,Gynaecologist,58.0,"MBBS, MD - Obstetrtics & Gynaecology",400.0,300.0,Shalini Hospital,Hyderabad,10:00:00,13:00:00,Hyderabad,400,03:00
+344,Dr. Sravana Soujanya,Gynaecologist,15.0,"MBBS, Diploma in Obstetrics & Gyanecology",700.0,300.0,Medics Healthcare,Nanakramguda,10:15:00,12:30:00,Hyderabad,700,02:15
+345,Dr. Madhavi Reddy,Gynaecologist,29.0,"MBBS, DGO",500.0,200.0,Lucerne Clinic for Ladies,Alwal,10:00:00,13:00:00,Hyderabad,700,03:00
+346,Dr. Ayesha Khaliq,Gynaecologist,22.0,"MBBS, MD - Obstetrtics & Gynaecology",300.0,300.0,Health Inn Clinic,Toli Chowki,17:00:00,19:00:00,Hyderabad,300,02:00
+347,Dr. G S K Jyothi Reddy,Gynaecologist,19.0,"MBBS, DGO",450.0,300.0,Sai Shourya's Test Tube Baby Centre,KPHB,19:30:00,20:00:00,Hyderabad,450,00:30
+348,Dr. Swathi Reddy,Gynaecologist,14.0,"MBBS, DGO",500.0,300.0,Himagiri Hospitals,Gachibowli,11:00:00,13:00:00,Hyderabad,500,02:00
+349,Dr. Manav Chintawar,Gynaecologist,8.0,"MS - Obstetrics and Gynaecology, MBBS",300.0,200.0,Manasa Hospital,Ramanthapur,10:30:00,14:00:00,Hyderabad,500,03:30
+350,Dr. Haritha Yalamanchili,Gynaecologist,25.0,"MBBS, MD - Obstetrics & Gynaecology, MRCOG",400.0,300.0,YPR Health Care,Madhapur,09:30:00,14:30:00,Hyderabad,400,05:00
+351,Dr. Sarada Chithajallu,Gynaecologist,21.0,"MBBS, DGO, MRCOG",300.0,300.0,Pegasus Health Care,Kukatpally,10:00:00,13:00:00,Hyderabad,300,03:00
+352,Dr. Jayashree Reddy,Gynaecologist,45.0,"MBBS, DGO, MD- Gynecology  And Obstetrics",900.0,300.0,Ankura Hospital for Women & Children,Kothaguda,11:00:00,14:00:00,Hyderabad,900,03:00
+353,Dr. Vangallu Padmini Silpa,Gynaecologist,21.0,"MBBS, DGO, DNB - Obstetrics and Gynecology",700.0,300.0,Apollo Cradle Kondapur,Kondapur,19:30:00,20:30:00,Hyderabad,700,01:00
+354,Dr. Sri Latha  Sallangula,Gynaecologist,20.0,"MBBS, DGO",200.0,300.0,Magnas V ENT Hospitals,Dilsukhnagar,12:00:00,14:00:00,Hyderabad,200,02:00
+355,Dr. Anupama Singh,Gynaecologist,33.0,"MBBS, DGO",500.0,300.0,Aries Maternity Hospital,Mehdipatnam,11:00:00,15:00:00,Hyderabad,500,04:00
+356,Dr. Samatha Kumar,Gynaecologist,21.0,"MBBS, DNB - Obstetrics and Gynecology",500.0,300.0,Unknown,Unknown,10:00:00,16:00:00,Hyderabad,0,06:00
+357,Dr. S  Srujana,Gynaecologist,18.0,"MBBS, DGO",500.0,300.0,Prasad Hospital,Nacharam,11:00:00,15:00:00,Hyderabad,500,04:00
+358,Dr. Saroja K,Gynaecologist,28.0,"MBBS, DGO",500.0,300.0,Unknown,Unknown,10:00:00,13:00:00,Hyderabad,0,03:00
+359,Dr. Ragini N,Gynaecologist,10.0,"Mbbs, MS -OBGY, Post Graduate Diploma in Sexual & Reproductive Medicine, Fellowship in Rep...read more",500.0,400.0,Iswarya IVF & Fertility Centre Banjara Hills Hyderabad - Best IVF & IUI Treatments,Banjara Hills,09:00:00,17:00:00,Hyderabad,900,08:00
+360,Dr. Sulochana Mortha,Gynaecologist,41.0,"MBBS, MD - Obstetrics & Gynaecology",400.0,300.0,Dr.Sulochana's Hospital,Hafeezpet,10:30:00,13:30:00,Hyderabad,700,03:00
+361,Dr. Sailaja,Gynaecologist,18.0,"MBBS, MD - Obstetrics & Gynaecology, DGO",300.0,300.0,Lakshmi Sailaja Hospital,Jeedimetla,10:00:00,14:00:00,Hyderabad,300,04:00
+362,Dr. Meena Ugale,Gynaecologist,37.0,"MBBS, MD - Obstetrics & Gynaecology, DGO",700.0,300.0,Kirloskar Hospital,Basheerbagh,10:00:00,17:00:00,Hyderabad,700,07:00
+363,Dr. Lakshmi Chirumamilla,Gynaecologist,27.0,"MBBS, MD - Obstetrics & Gynaecology, MRCOG",500.0,300.0,Nova IVF Fertility Clinic -  Hyderabad,Banjara Hills,09:30:00,19:30:00,Hyderabad,500,10:00
+364,Dr. Koka Sreedevi,Gynaecologist,35.0,"MBBS, DGO, D.MAS",600.0,300.0,Srijan Fertility Centre,Jeedimetla,09:00:00,18:00:00,Hyderabad,600,09:00
+365,Dr. Susmitha Gundavaram,Gynaecologist,23.0,"MBBS, MS - Obstetrics and Gynaecology",500.0,300.0,Siri's Clinic for Women & Children,Hyderabad,11:00:00,12:00:00,Hyderabad,500,01:00
+366,Dr. Nikitha Reddy D S,Gynaecologist,10.0,"MBBS, MS - Obstetrics & Gynaecology",500.0,500.0,Vaidya Poly Clinic,Madhapur,18:00:00,20:00:00,Hyderabad,1000,02:00
+367,Dr. M Madhavi,Gynaecologist,33.0,"MBBS, MD - Obstetrics & Gynaecology, DGO",600.0,300.0,Madhavi Clinic,West Marredpally,17:30:00,20:00:00,Hyderabad,600,02:30
+368,Dr. K Nirmala,Gynaecologist,31.0,"MBBS, DGO, DNB",500.0,300.0,Nirmala Maternity,Orthopaedic And General Hospital,19:00:00,20:00:00,Hyderabad,500,01:00
+369,Dr. Wasia Naveed,Gynaecologist,35.0,"MD - Obstetrtics & Gynaecology, MBBS",500.0,300.0,Sahifa Clinic,Malakpet,16:00:00,19:00:00,Hyderabad,500,03:00
+370,Dr. Sridevi Ragi,Gynaecologist,22.0,"MBBS, MD - Obstetrics & Gynaecology",600.0,300.0,Sai Neha Hospital,Kondapur,18:30:00,19:30:00,Hyderabad,600,01:00
+371,Dr. Mini Mohan,Gynaecologist,21.0,"MBBS, DGO, DNB - Obstetrics and Gynecology",600.0,300.0,Ashraya Clinic,Banjara Hills,09:00:00,10:00:00,Hyderabad,600,01:00
+372,Dr. Sarda Reddy,Gynaecologist,34.0,"DGO, MD",600.0,300.0,Shree Hospital,Sri Nagar Colony,19:00:00,21:00:00,Hyderabad,600,02:00
+373,Dr. Vimee Bindra,Gynaecologist,20.0,"MBBS, MS - Obstetrics & Gynaecology, Fellowship in Laparoscopy",500.0,300.0,Unknown,Unknown,10:00:00,13:00:00,Hyderabad,0,03:00
+374,Dr. G Jayanthi,Gynaecologist,22.0,"MBBS, MS - Obstetrics and Gynaecology, Fellowship in Laparoscopy",350.0,300.0,J.S. Hospitals - Ortho,Maternity and General,10:00:00,14:00:00,Hyderabad,350,04:00
+375,Dr. G Premalatha,Gynaecologist,29.0,"MBBS, DGO",600.0,300.0,Vikram Hospital,Madhapur,18:30:00,20:00:00,Hyderabad,600,01:30
+376,Dr. Vrinda Hegde,Gynaecologist,0.0,Not Mentioned,350.0,300.0,Hegde Hospital,Dilsukhnagar,18:30:00,20:30:00,Hyderabad,350,02:00
+377,Dr. Sasikala Kola,Gynaecologist,42.0,Not Mentioned,500.0,300.0,Unknown,Unknown,12:00:00,14:30:00,Hyderabad,0,02:30
+378,Dr. Swathi Hv,Gynaecologist,5.0,"MS - Obstetrics and Gynaecology, DNB (Obstetrics and Gynecology)",500.0,200.0,Care Hospital,Hyderabad,09:30:00,17:00:00,Hyderabad,700,07:30
+379,Dr. Nafeez. S,Gynaecologist,12.0,"MS - Obstetrics and Gynaecology, MBBS",400.0,300.0,Muslim maternity hospital,Hyderabad,09:30:00,16:00:00,Hyderabad,700,06:30
+380,Dr. Jyotsna Prashanth,Gynaecologist,20.0,"MBBS, MS - Obstetrics and Gynaecology",250.0,300.0,Femicare Woman's Clinic and Infertility Centre,Saidabad,10:00:00,13:00:00,Hyderabad,250,03:00
+381,Dr. Radhika Santosh Bhandari,Gynaecologist,29.0,"MBBS, DGO",400.0,300.0,Diya Fertility Centre,Hyderabad,16:00:00,20:00:00,Hyderabad,400,04:00
+382,Dr. Chinmayee Pradhan,Gynaecologist,22.0,"MBBS, DGO, DNB",500.0,300.0,Unknown,Unknown,11:00:00,13:30:00,Hyderabad,0,02:30
+383,Dr. M V D Aruna,Gynaecologist,29.0,"MBBS, DGO, MD - Obstetrics & Gynaecology",700.0,300.0,Oasis Fertility,Hyderabad,10:00:00,17:30:00,Hyderabad,700,07:30
+384,Dr. H Naramada Rao,Gynaecologist,42.0,"MBBS, DGO, DNB - Obstetrics & Gynecology",500.0,300.0,Narmada Fertility Center,Hyderabad,07:00:00,14:00:00,Hyderabad,500,07:00
+385,Dr. Vanamala Swetha,Gynaecologist,16.0,"MBBS, MS - Obstetrics & Gynaecology",500.0,400.0,Madhu's Mother and Child Clinic,Nizampet,17:00:00,18:00:00,Hyderabad,900,01:00
+386,Dr. K  Jansilakshmi,Gynaecologist,38.0,"MBBS, MD - Obstetrics & Gynaecology",150.0,300.0,Sri Bhargavi Hospital,Moti Nagar,18:30:00,20:30:00,Hyderabad,150,02:00
+387,Dr. Padma Kumari,Gynaecologist,33.0,"MBBS, MD - Obstetrics & Gynaecology",500.0,300.0,Omni Hospital,Dilsukhnagar,10:00:00,14:00:00,Hyderabad,500,04:00
+388,Dr. B Kiranmayee,Gynaecologist,16.0,"MBBS, MS - Obstetrics & Gynaecology",550.0,100.0,Kiranmayee Women & Fertility Clinic,Madhapur,10:30:00,13:30:00,Hyderabad,650,03:00
+389,Dr. Narmada H,Gynaecologist,42.0,"MBBS, DGO, DNB - Obstetrics & Gynecology",500.0,300.0,Narmada Test Tube Baby and Speciality Center,East Marredpally,07:00:00,14:00:00,Hyderabad,500,07:00
+390,Dr. B  Radhika,Gynaecologist,24.0,"MBBS, MD - Obstetrics & Gynaecology",600.0,300.0,Medicover Hospitals,Madhapur,11:00:00,15:30:00,Hyderabad,600,04:30
+391,Dr. S Padmavati,Gynaecologist,17.0,"MBBS, DGO",200.0,300.0,Padma clinic,hyderabad,09:00:00,22:00:00,Hyderabad,200,13:00
+392,Dr. Krishna Veni Kandru,Gynaecologist,24.0,"MBBS, DGO",500.0,300.0,Sia Life Hospital (On Call),Kondapur,10:00:00,10:15:00,Hyderabad,500,00:15
+393,Dr. Sushma,Gynaecologist,19.0,"MBBS, DNB - Obstetrics & Gynecology",800.0,300.0,Shreya Hospitals,Hyderabad,09:00:00,15:00:00,Hyderabad,800,06:00
+394,Dr. Padma Chennupaty,Gynaecologist,37.0,"MD - Obstetrics & Gynaecology, MBBS",500.0,300.0,Indira Womens Clinic and Birth Centre,Jubilee Hills,11:00:00,15:00:00,Hyderabad,500,04:00
+395,Dr. Nivedita,Gynaecologist,25.0,"MBBS, MD - Obstetrics & Gynaecology",500.0,300.0,Srishti Women's CLinic    (On Call),Tarnaka,10:00:00,17:00:00,Hyderabad,500,07:00
+396,Dr. Neelima,Gynaecologist,28.0,"MBBS, MD - Obstetrics & Gynaecology, Fellowship in Embryology, Fellowship in Infertility",500.0,300.0,Neelima Hospital,Moti Nagar,10:00:00,14:00:00,Hyderabad,500,04:00
+397,Anusha Patel,Gynaecologist,14.0,"MBBS, MS OBG",300.0,300.0,Habsiguda Polyclinic,Hyderabad,17:00:00,20:00:00,Hyderabad,600,03:00
+398,Dr. Manjula Anagani,Gynaecologist,33.0,"MBBS, Internship, MD (Pathology), MD (Gynaecology & Obstetrics)",500.0,300.0,Unknown,Unknown,11:00:00,13:00:00,Hyderabad,0,02:00
+399,Dr. K Padmaja Devi,Gynaecologist,33.0,"MBBS, DGO",450.0,300.0,Sneha Clinics,KPHB,09:00:00,13:30:00,Hyderabad,450,04:30
+400,Dr. Sindhuri Kapu,Gynaecologist,13.0,"MBBS, DNB - Obstetrics & Gynecology",800.0,500.0,Ankura Hospital for Women & Children - Banjara Hills,Hyderabad,10:00:00,18:00:00,Hyderabad,1300,08:00
+401,Dr. Juhul Arvind Patel,Gynaecologist,8.0,"DNB, DGO, Dip. Hospital Administration, Diploma Gynaecological Endoscopy, Kiel Germany, PG...read more",500.0,300.0,Pristyn Care,Hyderabad,10:00:00,20:00:00,Hyderabad,800,10:00
+402,Dr. Paipuru,Gynaecologist,0.0,Not Mentioned,500.0,300.0,Pristyn Care Clinic,Banjara Hills,17:00:00,20:00:00,Hyderabad,500,03:00
+403,Dr M Swapna Reddy,Gynaecologist,17.0,"MBBS, DGO",500.0,300.0,Pristyn care,Hyderabad,09:00:00,18:30:00,Hyderabad,500,09:30
+404,Dr. Sadhvi Reddy,Gynaecologist,14.0,"Fellowship  In Minimal Access Surgery, MS - Obstetrics and Gynaecology, MBBS",500.0,500.0,Vijay Hospital,Dilsukhnagar,11:00:00,17:00:00,Hyderabad,1000,06:00
+405,Dr. Shaivalini Kamarapu,Gynaecologist,13.0,"MBBS, MS - Obstetrics and Gynaecology, FMAS.Laparoscopy, Cosmetic Gynaecology",600.0,600.0,AMVI Hospital,Hyderabad,17:00:00,20:00:00,Hyderabad,1200,03:00
+406,Dr. Radhika Kandula,Gynaecologist,23.0,"MBBS, DNB (Obstetrics and Gyneacology), FNB Reproductive Medicine",300.0,300.0,Institute of Women Health and Fertility,Kukatpally,10:00:00,13:00:00,Hyderabad,600,03:00
+407,Dr. Vijaya Sree J,Gynaecologist,15.0,"MBBS Bachelor of Medicine and Bachelor of Surgery, Diploma in Obstetrics & Gynaecology, MS...read more",500.0,300.0,VIJAYA SREE CLINIC & DIAGNOSTICS,Habsiguda,12:00:00,17:00:00,Hyderabad,800,05:00
+408,Dr. Vani Cherukuri,Gynaecologist,37.0,"MBBS, MD - Obstetrics & Gynaecology, DGO",500.0,300.0,₹ 1,000 onlineEVA Care Clinic- The Every Woman?s Clinic,10:00:00,17:00:00,Hyderabad,500,07:00
+409,Dr. Padma Gandham Gandham,Gynaecologist,34.0,"MBBS, Diploma in Advanced Obstetrics and Gynaecological Ultrasound",300.0,300.0,SVS Clinic,L B Nagar,17:00:00,20:30:00,Hyderabad,600,03:30
+410,Dr. Sumana T,Gynaecologist,22.0,"MBBS, DGO, Diploma in Anesthesiology",600.0,350.0,SLG HOSPITALS,Hyderabad,09:00:00,14:45:00,Hyderabad,950,05:45
+411,Dr. Vindhya Gemaraju,Gynaecologist,20.0,"MBBS, DNB - Obstetrics & Gynecology, DGO",600.0,350.0,SO Poly Clinic,Hyderabad,18:00:00,21:00:00,Hyderabad,950,03:00
+412,Dr. Usha Rani,Gynaecologist,47.0,"MD - Obstetrics & Gynaecology, Diploma in Obstetrics & Gynaecology, MBBS",800.0,700.0,Yashoda Hospitals,Hyderabad,10:00:00,14:30:00,Hyderabad,1500,04:30
+413,Dr. Hima Deepthi.V,Gynaecologist,17.0,"MBBS, MS - Obstetrics and Gynaecology",500.0,300.0,Nova IVI Fertility,Banjara Hills,09:00:00,18:00:00,Hyderabad,800,09:00
+414,Dr. Srividya Tadru,Gynaecologist,5.0,"MS - Obstetrics and Gynaecology, DNB (Obstetrics and Gynecology), Fellowship in Reproducti...read more",300.0,400.0,Samraksha hospital for women and children,Hastinapuram,17:00:00,20:00:00,Hyderabad,700,03:00
+415,Dr. Radhika  Rani Akkineni,Gynaecologist,22.0,"MBBS, MS - Obstetrics and Gynaecology, Fellowship in Infertility",500.0,600.0,Dr. RADHIKA'S FERTILITY CENTER,Hyderabad,17:00:00,19:30:00,Hyderabad,1100,02:30
+416,Dr. Bkn Sudha,Gynaecologist,15.0,DGO,500.0,300.0,SUDHA HOSPITAL,Hyderabad,17:00:00,20:30:00,Hyderabad,800,03:30
+417,Dr. Madhavi Latha,Gynaecologist,23.0,"MBBS, DNB - Obstetrics & Gynecology, DGO",550.0,300.0,Dr. Madhavi's Gynaecology Clinic,Hyderabad,11:30:00,14:00:00,Hyderabad,550,02:30
+418,Dr. Chandana Galidevara,Gynaecologist,15.0,"MRCOG(UK), MS - Obstetrics & Gynecology, DNB (Obstetrics and Gynecology), Fellowship in Mi...read more",600.0,300.0,Satyasree Clinics & Diagnostics,Kondapur,18:30:00,21:30:00,Hyderabad,600,03:00
+419,Dr. Chandrakanth,Gynaecologist,28.0,"Diploma in Psychology and Sexology, Diploma in Obstetrics & Gynaecology, Royal College of ...read more",500.0,200.0,AKSHAYA HOSPITAL,Hyderabad,11:30:00,14:30:00,Hyderabad,700,03:00
+420,Dr. K Nageswari  Rao,Gynaecologist,33.0,"MD, MBBS",600.0,300.0,Sri Swetha Multi Speciality Daycare Surgical Centre,Hyderabad,10:00:00,16:00:00,Hyderabad,600,06:00
+421,Dr. Nuthalapati Suman Latha,Gynaecologist,22.0,"MBBS, DGO",400.0,500.0,Advanced Endocrine & Diabetes Hospital & Research Center,KPHB,10:00:00,14:00:00,Hyderabad,900,04:00
+422,Dr. T Anuradha,Gynaecologist,37.0,"MBBS, DGO",800.0,600.0,Anu's Gynaec,Test Tube&Fertility  Centre,10:00:00,14:00:00,Hyderabad,1400,04:00
+423,Dr. Anuradha  Koduri,Gynaecologist,51.0,"MD - Obstetrtics & Gynaecology, MBBS, FACOG",500.0,300.0,Unknown,Unknown,14:00:00,18:00:00,Hyderabad,0,04:00
+424,Dr. Durga G Rao,Gynaecologist,31.0,"MRCOG, MBBS Bachelor of Medicine and Bachelor of Surgery, DGO",600.0,300.0,Oasis Fertility,Banjara Hills,09:30:00,17:00:00,Hyderabad,600,07:30
+425,Dr. Sunitha Ilinani,Gynaecologist,27.0,"MD - Obstetrics & Gynaecology, MBBS",700.0,300.0,Apollo Fertility,Banjara Hills,11:00:00,14:00:00,Hyderabad,1000,03:00
+426,Dr. Nasreen  Ashfaq,Gynaecologist,29.0,"Diploma in Obstetrics & Gynaecology, MBBS",650.0,300.0,Femcity Women's Hospital,Shaikpet,13:00:00,16:00:00,Hyderabad,650,03:00
+427,Dr. Sweta Agarwal,Gynaecologist,30.0,"MS - Obstetrics and Gynaecology, FRANZCOG (Fellowship of Royal College of Obstric and Gyne...read more",700.0,300.0,Southern Gem Hospital,Basheerbagh,11:00:00,14:00:00,Hyderabad,700,03:00
+428,Dr. Saraschandrika P. V.,Gynaecologist,61.0,"MBBS Bachelor of Medicine and Bachelor of Surgery, MD - Obstetrics & Gynaecology",600.0,300.0,Banjara12 Hospital,Banjara Hills,19:00:00,21:00:00,Hyderabad,600,02:00
+429,Dr. Amishrita Chintawar,Gynaecologist,11.0,"MS - Obstetrics and Gynaecology, MBBS",300.0,250.0,Manasa Hospital,Ramanthapur,10:00:00,16:00:00,Hyderabad,550,06:00
+430,Dr. S Hima Bindu,Gynaecologist,25.0,"MBBS, DGO",700.0,300.0,Ankura Hospital For Women & Children,Hyderabad,09:00:00,15:00:00,Hyderabad,1000,06:00
+431,Dr. Naaz Fatima,Gynaecologist,9.0,"MBBS, MS - Obstetrics and Gynaecology",400.0,200.0,Alladins Clinic,Masab Tank,17:00:00,20:00:00,Hyderabad,600,03:00
+432,Dr. B.Padmavathi Sreenivas,Gynaecologist,28.0,"MBBS, DGO",600.0,300.0,Sri Sai Womens Hospital,Kothapet,17:00:00,20:30:00,Hyderabad,600,03:30
+433,Dr. Sameera Alluri,Gynaecologist,36.0,"MBBS, MD - Obstetrics & Gynaecology",450.0,300.0,Sri Sri Holistic Hospitals,Nizampet,11:00:00,13:00:00,Hyderabad,450,02:00
+434,Dr. Lakshmi Krishna Leela,Gynaecologist,26.0,"Doctor of Medicine (Obstetrics & Gynaecology), Royal College of Obstetricians & Gynaecolog...read more",800.0,300.0,Elbit Diagnostic Centre,Madhapur,17:00:00,18:00:00,Hyderabad,800,01:00
+435,Dr. Farzana Tasneem,Gynaecologist,39.0,Diploma in Obstetrics & Gynaecology,300.0,300.0,INNU CLINIC,Hyderabad,15:30:00,18:00:00,Hyderabad,600,02:30
+436,Dr. Bhavani Reddy A,Gynaecologist,33.0,"MBBS, MD - Obstetrics & Gynaecology",500.0,300.0,Bhavya Multispeciality Hospital,Nagole,19:00:00,20:00:00,Hyderabad,500,01:00
+437,Dr. Sita Reddy,Gynaecologist,32.0,"MBBS Bachelor of Medicine and Bachelor of Surgery, MD - Obstetrtics & Gynaecology",500.0,500.0,Kindle Clinics,Gachibowli,14:00:00,17:00:00,Hyderabad,1000,03:00
+438,Oasis Fertility,Gynaecologist,0.0,Not Mentioned,700.0,300.0,Oasis Fertility,Banjara Hills,09:00:00,17:00:00,Hyderabad,700,08:00
+439,Dr. Swetha Shesham,Gynaecologist,12.0,"MBBS, MS, F.mas,D.mas, Fellowship in Robotic Surgery, Fellowship in Infertility",400.0,300.0,Lakshmi Health Care Hospital,Vanasthalipuram,10:30:00,14:00:00,Hyderabad,400,03:30
+440,Dr. Bharathi Sudha A,Gynaecologist,12.0,"MS, MBBS, Diploma in Reproductive Medicine (Germany), Senior Resident",600.0,500.0,IVY WOMEN AND FERTILITY,Gachibowli,10:00:00,20:00:00,Hyderabad,1100,10:00
+441,Dr. Arpitha Reddy,Gynaecologist,26.0,"MBBS, DGO, MRCOG(UK)",500.0,300.0,Mums Fertility Center,Kukatpally,21:00:00,21:00:00,Hyderabad,500,00:00
+442,Dr. B. Kiranmayee,Gynaecologist,15.0,"Diploma in Reproductive Medicine (Germany), MS - Obstetrics and Gynaecology, MBBS",550.0,300.0,Dr. Kiranmayee  Woman's Clinic,Gachibowli,10:00:00,13:00:00,Hyderabad,550,03:00
+443,Dr. Balamba P,Gynaecologist,58.0,"MBBS, MD - Obstetrtics & Gynaecology",400.0,300.0,Shalini Hospital,Hyderabad,10:00:00,13:00:00,Hyderabad,400,03:00
+444,Dr. Sravana Soujanya,Gynaecologist,15.0,"MBBS, Diploma in Obstetrics & Gyanecology",700.0,300.0,Medics Healthcare,Nanakramguda,10:15:00,12:30:00,Hyderabad,700,02:15
+445,Dr. Madhavi Reddy,Gynaecologist,29.0,"MBBS, DGO",500.0,200.0,Lucerne Clinic for Ladies,Alwal,10:00:00,13:00:00,Hyderabad,700,03:00
+446,Dr. Ayesha Khaliq,Gynaecologist,22.0,"MBBS, MD - Obstetrtics & Gynaecology",300.0,300.0,Health Inn Clinic,Toli Chowki,17:00:00,19:00:00,Hyderabad,300,02:00
+447,Dr. G S K Jyothi Reddy,Gynaecologist,19.0,"MBBS, DGO",450.0,300.0,Sai Shourya's Test Tube Baby Centre,KPHB,19:30:00,20:00:00,Hyderabad,450,00:30
+448,Dr. Swathi Reddy,Gynaecologist,14.0,"MBBS, DGO",500.0,300.0,Himagiri Hospitals,Gachibowli,11:00:00,13:00:00,Hyderabad,500,02:00
+449,Dr. Manav Chintawar,Gynaecologist,8.0,"MS - Obstetrics and Gynaecology, MBBS",300.0,200.0,Manasa Hospital,Ramanthapur,10:30:00,14:00:00,Hyderabad,500,03:30
+450,Dr. Haritha Yalamanchili,Gynaecologist,25.0,"MBBS, MD - Obstetrics & Gynaecology, MRCOG",400.0,300.0,YPR Health Care,Madhapur,09:30:00,14:30:00,Hyderabad,400,05:00
+451,Dr. Sarada Chithajallu,Gynaecologist,21.0,"MBBS, DGO, MRCOG",300.0,300.0,Pegasus Health Care,Kukatpally,10:00:00,13:00:00,Hyderabad,300,03:00
+452,Dr. Jayashree Reddy,Gynaecologist,45.0,"MBBS, DGO, MD- Gynecology  And Obstetrics",900.0,300.0,Ankura Hospital for Women & Children,Kothaguda,11:00:00,14:00:00,Hyderabad,900,03:00
+453,Dr. Vangallu Padmini Silpa,Gynaecologist,21.0,"MBBS, DGO, DNB - Obstetrics and Gynecology",700.0,300.0,Apollo Cradle Kondapur,Kondapur,19:30:00,20:30:00,Hyderabad,700,01:00
+454,Dr. Sri Latha  Sallangula,Gynaecologist,20.0,"MBBS, DGO",200.0,300.0,Magnas V ENT Hospitals,Dilsukhnagar,12:00:00,14:00:00,Hyderabad,200,02:00
+455,Dr. Anupama Singh,Gynaecologist,33.0,"MBBS, DGO",500.0,300.0,Aries Maternity Hospital,Mehdipatnam,11:00:00,15:00:00,Hyderabad,500,04:00
+456,Dr. Samatha Kumar,Gynaecologist,21.0,"MBBS, DNB - Obstetrics and Gynecology",500.0,300.0,Unknown,Unknown,10:00:00,16:00:00,Hyderabad,0,06:00
+457,Dr. S  Srujana,Gynaecologist,18.0,"MBBS, DGO",500.0,300.0,Prasad Hospital,Nacharam,11:00:00,15:00:00,Hyderabad,500,04:00
+458,Dr. Saroja K,Gynaecologist,28.0,"MBBS, DGO",500.0,300.0,Unknown,Unknown,10:00:00,13:00:00,Hyderabad,0,03:00
+459,Dr. Ragini N,Gynaecologist,10.0,"Mbbs, MS -OBGY, Post Graduate Diploma in Sexual & Reproductive Medicine, Fellowship in Rep...read more",500.0,400.0,Iswarya IVF & Fertility Centre Banjara Hills Hyderabad - Best IVF & IUI Treatments,Banjara Hills,09:00:00,17:00:00,Hyderabad,900,08:00
+460,Dr. Sulochana Mortha,Gynaecologist,41.0,"MBBS, MD - Obstetrics & Gynaecology",400.0,300.0,Dr.Sulochana's Hospital,Hafeezpet,10:30:00,13:30:00,Hyderabad,700,03:00
+461,Dr. Sailaja,Gynaecologist,18.0,"MBBS, MD - Obstetrics & Gynaecology, DGO",300.0,300.0,Lakshmi Sailaja Hospital,Jeedimetla,10:00:00,14:00:00,Hyderabad,300,04:00
+462,Dr. Meena Ugale,Gynaecologist,37.0,"MBBS, MD - Obstetrics & Gynaecology, DGO",700.0,300.0,Kirloskar Hospital,Basheerbagh,10:00:00,17:00:00,Hyderabad,700,07:00
+463,Dr. Lakshmi Chirumamilla,Gynaecologist,27.0,"MBBS, MD - Obstetrics & Gynaecology, MRCOG",500.0,300.0,Nova IVF Fertility Clinic -  Hyderabad,Banjara Hills,09:30:00,19:30:00,Hyderabad,500,10:00
+464,Dr. Koka Sreedevi,Gynaecologist,35.0,"MBBS, DGO, D.MAS",600.0,300.0,Srijan Fertility Centre,Jeedimetla,09:00:00,18:00:00,Hyderabad,600,09:00
+465,Dr. Susmitha Gundavaram,Gynaecologist,23.0,"MBBS, MS - Obstetrics and Gynaecology",500.0,300.0,Siri's Clinic for Women & Children,Hyderabad,11:00:00,12:00:00,Hyderabad,500,01:00
+466,Dr. Nikitha Reddy D S,Gynaecologist,10.0,"MBBS, MS - Obstetrics & Gynaecology",500.0,500.0,Vaidya Poly Clinic,Madhapur,18:00:00,20:00:00,Hyderabad,1000,02:00
+467,Dr. M Madhavi,Gynaecologist,33.0,"MBBS, MD - Obstetrics & Gynaecology, DGO",600.0,300.0,Madhavi Clinic,West Marredpally,17:30:00,20:00:00,Hyderabad,600,02:30
+468,Dr. K Nirmala,Gynaecologist,31.0,"MBBS, DGO, DNB",500.0,300.0,Nirmala Maternity,Orthopaedic And General Hospital,19:00:00,20:00:00,Hyderabad,500,01:00
+469,Dr. Wasia Naveed,Gynaecologist,35.0,"MD - Obstetrtics & Gynaecology, MBBS",500.0,300.0,Sahifa Clinic,Malakpet,16:00:00,19:00:00,Hyderabad,500,03:00
+470,Dr. Sridevi Ragi,Gynaecologist,22.0,"MBBS, MD - Obstetrics & Gynaecology",600.0,300.0,Sai Neha Hospital,Kondapur,18:30:00,19:30:00,Hyderabad,600,01:00
+471,Dr. Mini Mohan,Gynaecologist,21.0,"MBBS, DGO, DNB - Obstetrics and Gynecology",600.0,300.0,Ashraya Clinic,Banjara Hills,09:00:00,10:00:00,Hyderabad,600,01:00
+472,Dr. Sarda Reddy,Gynaecologist,34.0,"DGO, MD",600.0,300.0,Shree Hospital,Sri Nagar Colony,19:00:00,21:00:00,Hyderabad,600,02:00
+473,Dr. Vimee Bindra,Gynaecologist,20.0,"MBBS, MS - Obstetrics & Gynaecology, Fellowship in Laparoscopy",500.0,300.0,Unknown,Unknown,10:00:00,13:00:00,Hyderabad,0,03:00
+474,Dr. G Jayanthi,Gynaecologist,22.0,"MBBS, MS - Obstetrics and Gynaecology, Fellowship in Laparoscopy",350.0,300.0,J.S. Hospitals - Ortho,Maternity and General,10:00:00,14:00:00,Hyderabad,350,04:00
+475,Dr. G Premalatha,Gynaecologist,29.0,"MBBS, DGO",600.0,300.0,Vikram Hospital,Madhapur,18:30:00,20:00:00,Hyderabad,600,01:30
+476,Dr. Vrinda Hegde,Gynaecologist,0.0,Not Mentioned,350.0,300.0,Hegde Hospital,Dilsukhnagar,18:30:00,20:30:00,Hyderabad,350,02:00
+477,Dr. Sasikala Kola,Gynaecologist,42.0,Not Mentioned,500.0,300.0,Unknown,Unknown,12:00:00,14:30:00,Hyderabad,0,02:30
+478,Dr. Swathi Hv,Gynaecologist,5.0,"MS - Obstetrics and Gynaecology, DNB (Obstetrics and Gynecology)",500.0,200.0,Care Hospital,Hyderabad,09:30:00,17:00:00,Hyderabad,700,07:30
+479,Dr. Nafeez. S,Gynaecologist,12.0,"MS - Obstetrics and Gynaecology, MBBS",400.0,300.0,Muslim maternity hospital,Hyderabad,09:30:00,16:00:00,Hyderabad,700,06:30
+480,Dr. Jyotsna Prashanth,Gynaecologist,20.0,"MBBS, MS - Obstetrics and Gynaecology",250.0,300.0,Femicare Woman's Clinic and Infertility Centre,Saidabad,10:00:00,13:00:00,Hyderabad,250,03:00
+481,Dr. Radhika Santosh Bhandari,Gynaecologist,29.0,"MBBS, DGO",400.0,300.0,Diya Fertility Centre,Hyderabad,16:00:00,20:00:00,Hyderabad,400,04:00
+482,Dr. Chinmayee Pradhan,Gynaecologist,22.0,"MBBS, DGO, DNB",500.0,300.0,Unknown,Unknown,11:00:00,13:30:00,Hyderabad,0,02:30
+483,Dr. M V D Aruna,Gynaecologist,29.0,"MBBS, DGO, MD - Obstetrics & Gynaecology",700.0,300.0,Oasis Fertility,Hyderabad,10:00:00,17:30:00,Hyderabad,700,07:30
+484,Dr. H Naramada Rao,Gynaecologist,42.0,"MBBS, DGO, DNB - Obstetrics & Gynecology",500.0,300.0,Narmada Fertility Center,Hyderabad,07:00:00,14:00:00,Hyderabad,500,07:00
+485,Dr. Vanamala Swetha,Gynaecologist,16.0,"MBBS, MS - Obstetrics & Gynaecology",500.0,400.0,Madhu's Mother and Child Clinic,Nizampet,17:00:00,18:00:00,Hyderabad,900,01:00
+486,Dr. K  Jansilakshmi,Gynaecologist,38.0,"MBBS, MD - Obstetrics & Gynaecology",150.0,300.0,Sri Bhargavi Hospital,Moti Nagar,18:30:00,20:30:00,Hyderabad,150,02:00
+487,Dr. Padma Kumari,Gynaecologist,33.0,"MBBS, MD - Obstetrics & Gynaecology",500.0,300.0,Omni Hospital,Dilsukhnagar,10:00:00,14:00:00,Hyderabad,500,04:00
+488,Dr. B Kiranmayee,Gynaecologist,16.0,"MBBS, MS - Obstetrics & Gynaecology",550.0,100.0,Kiranmayee Women & Fertility Clinic,Madhapur,10:30:00,13:30:00,Hyderabad,650,03:00
+489,Dr. Narmada H,Gynaecologist,42.0,"MBBS, DGO, DNB - Obstetrics & Gynecology",500.0,300.0,Narmada Test Tube Baby and Speciality Center,East Marredpally,07:00:00,14:00:00,Hyderabad,500,07:00
+490,Dr. B  Radhika,Gynaecologist,24.0,"MBBS, MD - Obstetrics & Gynaecology",600.0,300.0,Medicover Hospitals,Madhapur,11:00:00,15:30:00,Hyderabad,600,04:30
+491,Dr. S Padmavati,Gynaecologist,17.0,"MBBS, DGO",200.0,300.0,Padma clinic,hyderabad,09:00:00,22:00:00,Hyderabad,200,13:00
+492,Dr. Krishna Veni Kandru,Gynaecologist,24.0,"MBBS, DGO",500.0,300.0,Sia Life Hospital (On Call),Kondapur,10:00:00,10:15:00,Hyderabad,500,00:15
+493,Dr. Sushma,Gynaecologist,19.0,"MBBS, DNB - Obstetrics & Gynecology",800.0,300.0,Shreya Hospitals,Hyderabad,09:00:00,15:00:00,Hyderabad,800,06:00
+494,Dr. Padma Chennupaty,Gynaecologist,37.0,"MD - Obstetrics & Gynaecology, MBBS",500.0,300.0,Indira Womens Clinic and Birth Centre,Jubilee Hills,11:00:00,15:00:00,Hyderabad,500,04:00
+495,Dr. Nivedita,Gynaecologist,25.0,"MBBS, MD - Obstetrics & Gynaecology",500.0,300.0,Srishti Women's CLinic    (On Call),Tarnaka,10:00:00,17:00:00,Hyderabad,500,07:00
+496,Dr. Neelima,Gynaecologist,28.0,"MBBS, MD - Obstetrics & Gynaecology, Fellowship in Embryology, Fellowship in Infertility",500.0,300.0,Neelima Hospital,Moti Nagar,10:00:00,14:00:00,Hyderabad,500,04:00
+497,Anusha Patel,Gynaecologist,14.0,"MBBS, MS OBG",300.0,300.0,Habsiguda Polyclinic,Hyderabad,17:00:00,20:00:00,Hyderabad,600,03:00
+498,Dr. Manjula Anagani,Gynaecologist,33.0,"MBBS, Internship, MD (Pathology), MD (Gynaecology & Obstetrics)",500.0,300.0,Unknown,Unknown,11:00:00,13:00:00,Hyderabad,0,02:00
+499,Dr. K Padmaja Devi,Gynaecologist,33.0,"MBBS, DGO",450.0,300.0,Sneha Clinics,KPHB,09:00:00,13:30:00,Hyderabad,450,04:30
+500,Dr. Sindhuri Kapu,Gynaecologist,13.0,"MBBS, DNB - Obstetrics & Gynecology",800.0,500.0,Ankura Hospital for Women & Children - Banjara Hills,Hyderabad,10:00:00,18:00:00,Hyderabad,1300,08:00
+501,Dr. Juhul Arvind Patel,Gynaecologist,8.0,"DNB, DGO, Dip. Hospital Administration, Diploma Gynaecological Endoscopy, Kiel Germany, PG...read more",500.0,300.0,Pristyn Care,Hyderabad,10:00:00,20:00:00,Hyderabad,800,10:00
+502,Dr. Paipuru,Gynaecologist,0.0,Not Mentioned,500.0,300.0,Pristyn Care Clinic,Banjara Hills,17:00:00,20:00:00,Hyderabad,500,03:00
+503,Dr M Swapna Reddy,Gynaecologist,17.0,"MBBS, DGO",500.0,300.0,Pristyn care,Hyderabad,09:00:00,18:30:00,Hyderabad,500,09:30
+504,Dr. Sadhvi Reddy,Gynaecologist,14.0,"Fellowship  In Minimal Access Surgery, MS - Obstetrics and Gynaecology, MBBS",500.0,500.0,Vijay Hospital,Dilsukhnagar,11:00:00,17:00:00,Hyderabad,1000,06:00
+505,Dr. Shaivalini Kamarapu,Gynaecologist,13.0,"MBBS, MS - Obstetrics and Gynaecology, FMAS.Laparoscopy, Cosmetic Gynaecology",600.0,600.0,AMVI Hospital,Hyderabad,17:00:00,20:00:00,Hyderabad,1200,03:00
+506,Dr. Radhika Kandula,Gynaecologist,23.0,"MBBS, DNB (Obstetrics and Gyneacology), FNB Reproductive Medicine",300.0,300.0,Institute of Women Health and Fertility,Kukatpally,10:00:00,13:00:00,Hyderabad,600,03:00
+507,Dr. Vijaya Sree J,Gynaecologist,15.0,"MBBS Bachelor of Medicine and Bachelor of Surgery, Diploma in Obstetrics & Gynaecology, MS...read more",500.0,300.0,VIJAYA SREE CLINIC & DIAGNOSTICS,Habsiguda,12:00:00,17:00:00,Hyderabad,800,05:00
+508,Dr. Vani Cherukuri,Gynaecologist,37.0,"MBBS, MD - Obstetrics & Gynaecology, DGO",500.0,300.0,₹ 1,000 onlineEVA Care Clinic- The Every Woman?s Clinic,10:00:00,17:00:00,Hyderabad,500,07:00
+509,Dr. Padma Gandham Gandham,Gynaecologist,34.0,"MBBS, Diploma in Advanced Obstetrics and Gynaecological Ultrasound",300.0,300.0,SVS Clinic,L B Nagar,17:00:00,20:30:00,Hyderabad,600,03:30
+510,Dr. Sumana T,Gynaecologist,22.0,"MBBS, DGO, Diploma in Anesthesiology",600.0,350.0,SLG HOSPITALS,Hyderabad,09:00:00,14:45:00,Hyderabad,950,05:45
+511,Dr. Vindhya Gemaraju,Gynaecologist,20.0,"MBBS, DNB - Obstetrics & Gynecology, DGO",600.0,350.0,SO Poly Clinic,Hyderabad,18:00:00,21:00:00,Hyderabad,950,03:00
+512,Dr. Usha Rani,Gynaecologist,47.0,"MD - Obstetrics & Gynaecology, Diploma in Obstetrics & Gynaecology, MBBS",800.0,700.0,Yashoda Hospitals,Hyderabad,10:00:00,14:30:00,Hyderabad,1500,04:30
+513,Dr. Hima Deepthi.V,Gynaecologist,17.0,"MBBS, MS - Obstetrics and Gynaecology",500.0,300.0,Nova IVI Fertility,Banjara Hills,09:00:00,18:00:00,Hyderabad,800,09:00
+514,Dr. Srividya Tadru,Gynaecologist,5.0,"MS - Obstetrics and Gynaecology, DNB (Obstetrics and Gynecology), Fellowship in Reproducti...read more",300.0,400.0,Samraksha hospital for women and children,Hastinapuram,17:00:00,20:00:00,Hyderabad,700,03:00
+515,Dr. Radhika  Rani Akkineni,Gynaecologist,22.0,"MBBS, MS - Obstetrics and Gynaecology, Fellowship in Infertility",500.0,600.0,Dr. RADHIKA'S FERTILITY CENTER,Hyderabad,17:00:00,19:30:00,Hyderabad,1100,02:30
+516,Dr. Bkn Sudha,Gynaecologist,15.0,DGO,500.0,300.0,SUDHA HOSPITAL,Hyderabad,17:00:00,20:30:00,Hyderabad,800,03:30
+517,Dr. Madhavi Latha,Gynaecologist,23.0,"MBBS, DNB - Obstetrics & Gynecology, DGO",550.0,300.0,Dr. Madhavi's Gynaecology Clinic,Hyderabad,11:30:00,14:00:00,Hyderabad,550,02:30
+518,Dr. Chandana Galidevara,Gynaecologist,15.0,"MRCOG(UK), MS - Obstetrics & Gynecology, DNB (Obstetrics and Gynecology), Fellowship in Mi...read more",600.0,300.0,Satyasree Clinics & Diagnostics,Kondapur,18:30:00,21:30:00,Hyderabad,600,03:00
+519,Dr. Chandrakanth,Gynaecologist,28.0,"Diploma in Psychology and Sexology, Diploma in Obstetrics & Gynaecology, Royal College of ...read more",500.0,200.0,AKSHAYA HOSPITAL,Hyderabad,11:30:00,14:30:00,Hyderabad,700,03:00
+520,Dr. K Nageswari  Rao,Gynaecologist,33.0,"MD, MBBS",600.0,300.0,Sri Swetha Multi Speciality Daycare Surgical Centre,Hyderabad,10:00:00,16:00:00,Hyderabad,600,06:00
+521,Dr. Nuthalapati Suman Latha,Gynaecologist,22.0,"MBBS, DGO",400.0,500.0,Advanced Endocrine & Diabetes Hospital & Research Center,KPHB,10:00:00,14:00:00,Hyderabad,900,04:00
+522,Dr. T Anuradha,Gynaecologist,37.0,"MBBS, DGO",800.0,600.0,Anu's Gynaec,Test Tube&Fertility  Centre,10:00:00,14:00:00,Hyderabad,1400,04:00
+523,Dr. Anuradha  Koduri,Gynaecologist,51.0,"MD - Obstetrtics & Gynaecology, MBBS, FACOG",500.0,300.0,Unknown,Unknown,14:00:00,18:00:00,Hyderabad,0,04:00
+524,Dr. Durga G Rao,Gynaecologist,31.0,"MRCOG, MBBS Bachelor of Medicine and Bachelor of Surgery, DGO",600.0,300.0,Oasis Fertility,Banjara Hills,09:30:00,17:00:00,Hyderabad,600,07:30
+525,Dr. Sunitha Ilinani,Gynaecologist,27.0,"MD - Obstetrics & Gynaecology, MBBS",700.0,300.0,Apollo Fertility,Banjara Hills,11:00:00,14:00:00,Hyderabad,1000,03:00
+526,Dr. Nasreen  Ashfaq,Gynaecologist,29.0,"Diploma in Obstetrics & Gynaecology, MBBS",650.0,300.0,Femcity Women's Hospital,Shaikpet,13:00:00,16:00:00,Hyderabad,650,03:00
+527,Dr. Sweta Agarwal,Gynaecologist,30.0,"MS - Obstetrics and Gynaecology, FRANZCOG (Fellowship of Royal College of Obstric and Gyne...read more",700.0,300.0,Southern Gem Hospital,Basheerbagh,11:00:00,14:00:00,Hyderabad,700,03:00
+528,Dr. Saraschandrika P. V.,Gynaecologist,61.0,"MBBS Bachelor of Medicine and Bachelor of Surgery, MD - Obstetrics & Gynaecology",600.0,300.0,Banjara12 Hospital,Banjara Hills,19:00:00,21:00:00,Hyderabad,600,02:00
+529,Dr. Amishrita Chintawar,Gynaecologist,11.0,"MS - Obstetrics and Gynaecology, MBBS",300.0,250.0,Manasa Hospital,Ramanthapur,10:00:00,16:00:00,Hyderabad,550,06:00
+530,Dr. S Hima Bindu,Gynaecologist,25.0,"MBBS, DGO",700.0,300.0,Ankura Hospital For Women & Children,Hyderabad,09:00:00,15:00:00,Hyderabad,1000,06:00
+531,Dr. Naaz Fatima,Gynaecologist,9.0,"MBBS, MS - Obstetrics and Gynaecology",400.0,200.0,Alladins Clinic,Masab Tank,17:00:00,20:00:00,Hyderabad,600,03:00
+532,Dr. B.Padmavathi Sreenivas,Gynaecologist,28.0,"MBBS, DGO",600.0,300.0,Sri Sai Womens Hospital,Kothapet,17:00:00,20:30:00,Hyderabad,600,03:30
+533,Dr. Sameera Alluri,Gynaecologist,36.0,"MBBS, MD - Obstetrics & Gynaecology",450.0,300.0,Sri Sri Holistic Hospitals,Nizampet,11:00:00,13:00:00,Hyderabad,450,02:00
+534,Dr. Lakshmi Krishna Leela,Gynaecologist,26.0,"Doctor of Medicine (Obstetrics & Gynaecology), Royal College of Obstetricians & Gynaecolog...read more",800.0,300.0,Elbit Diagnostic Centre,Madhapur,17:00:00,18:00:00,Hyderabad,800,01:00
+535,Dr. Farzana Tasneem,Gynaecologist,39.0,Diploma in Obstetrics & Gynaecology,300.0,300.0,INNU CLINIC,Hyderabad,15:30:00,18:00:00,Hyderabad,600,02:30
+536,Dr. Bhavani Reddy A,Gynaecologist,33.0,"MBBS, MD - Obstetrics & Gynaecology",500.0,300.0,Bhavya Multispeciality Hospital,Nagole,19:00:00,20:00:00,Hyderabad,500,01:00
+537,Dr. Sita Reddy,Gynaecologist,32.0,"MBBS Bachelor of Medicine and Bachelor of Surgery, MD - Obstetrtics & Gynaecology",500.0,500.0,Kindle Clinics,Gachibowli,14:00:00,17:00:00,Hyderabad,1000,03:00
+538,Oasis Fertility,Gynaecologist,0.0,Not Mentioned,700.0,300.0,Oasis Fertility,Banjara Hills,09:00:00,17:00:00,Hyderabad,700,08:00
+539,Dr. Swetha Shesham,Gynaecologist,12.0,"MBBS, MS, F.mas,D.mas, Fellowship in Robotic Surgery, Fellowship in Infertility",400.0,300.0,Lakshmi Health Care Hospital,Vanasthalipuram,10:30:00,14:00:00,Hyderabad,400,03:30
+540,Dr. Bharathi Sudha A,Gynaecologist,12.0,"MS, MBBS, Diploma in Reproductive Medicine (Germany), Senior Resident",600.0,500.0,IVY WOMEN AND FERTILITY,Gachibowli,10:00:00,20:00:00,Hyderabad,1100,10:00
+541,Dr. Arpitha Reddy,Gynaecologist,26.0,"MBBS, DGO, MRCOG(UK)",500.0,300.0,Mums Fertility Center,Kukatpally,21:00:00,21:00:00,Hyderabad,500,00:00
+542,Dr. B. Kiranmayee,Gynaecologist,15.0,"Diploma in Reproductive Medicine (Germany), MS - Obstetrics and Gynaecology, MBBS",550.0,300.0,Dr. Kiranmayee  Woman's Clinic,Gachibowli,10:00:00,13:00:00,Hyderabad,550,03:00
+543,Dr. Balamba P,Gynaecologist,58.0,"MBBS, MD - Obstetrtics & Gynaecology",400.0,300.0,Shalini Hospital,Hyderabad,10:00:00,13:00:00,Hyderabad,400,03:00
+544,Dr. Sravana Soujanya,Gynaecologist,15.0,"MBBS, Diploma in Obstetrics & Gyanecology",700.0,300.0,Medics Healthcare,Nanakramguda,10:15:00,12:30:00,Hyderabad,700,02:15
+545,Dr. Madhavi Reddy,Gynaecologist,29.0,"MBBS, DGO",500.0,200.0,Lucerne Clinic for Ladies,Alwal,10:00:00,13:00:00,Hyderabad,700,03:00
+546,Dr. Ayesha Khaliq,Gynaecologist,22.0,"MBBS, MD - Obstetrtics & Gynaecology",300.0,300.0,Health Inn Clinic,Toli Chowki,17:00:00,19:00:00,Hyderabad,300,02:00
+547,Dr. G S K Jyothi Reddy,Gynaecologist,19.0,"MBBS, DGO",450.0,300.0,Sai Shourya's Test Tube Baby Centre,KPHB,19:30:00,20:00:00,Hyderabad,450,00:30
+548,Dr. Swathi Reddy,Gynaecologist,14.0,"MBBS, DGO",500.0,300.0,Himagiri Hospitals,Gachibowli,11:00:00,13:00:00,Hyderabad,500,02:00
+549,Dr. Manav Chintawar,Gynaecologist,8.0,"MS - Obstetrics and Gynaecology, MBBS",300.0,200.0,Manasa Hospital,Ramanthapur,10:30:00,14:00:00,Hyderabad,500,03:30
+550,Dr. Haritha Yalamanchili,Gynaecologist,25.0,"MBBS, MD - Obstetrics & Gynaecology, MRCOG",400.0,300.0,YPR Health Care,Madhapur,09:30:00,14:30:00,Hyderabad,400,05:00
+551,Dr. Sarada Chithajallu,Gynaecologist,21.0,"MBBS, DGO, MRCOG",300.0,300.0,Pegasus Health Care,Kukatpally,10:00:00,13:00:00,Hyderabad,300,03:00
+552,Dr. Jayashree Reddy,Gynaecologist,45.0,"MBBS, DGO, MD- Gynecology  And Obstetrics",900.0,300.0,Ankura Hospital for Women & Children,Kothaguda,11:00:00,14:00:00,Hyderabad,900,03:00
+553,Dr. Vangallu Padmini Silpa,Gynaecologist,21.0,"MBBS, DGO, DNB - Obstetrics and Gynecology",700.0,300.0,Apollo Cradle Kondapur,Kondapur,19:30:00,20:30:00,Hyderabad,700,01:00
+554,Dr. Sri Latha  Sallangula,Gynaecologist,20.0,"MBBS, DGO",200.0,300.0,Magnas V ENT Hospitals,Dilsukhnagar,12:00:00,14:00:00,Hyderabad,200,02:00
+555,Dr. Anupama Singh,Gynaecologist,33.0,"MBBS, DGO",500.0,300.0,Aries Maternity Hospital,Mehdipatnam,11:00:00,15:00:00,Hyderabad,500,04:00
+556,Dr. Samatha Kumar,Gynaecologist,21.0,"MBBS, DNB - Obstetrics and Gynecology",500.0,300.0,Unknown,Unknown,10:00:00,16:00:00,Hyderabad,0,06:00
+557,Dr. S  Srujana,Gynaecologist,18.0,"MBBS, DGO",500.0,300.0,Prasad Hospital,Nacharam,11:00:00,15:00:00,Hyderabad,500,04:00
+558,Dr. Saroja K,Gynaecologist,28.0,"MBBS, DGO",500.0,300.0,Unknown,Unknown,10:00:00,13:00:00,Hyderabad,0,03:00
+559,Dr. Ragini N,Gynaecologist,10.0,"Mbbs, MS -OBGY, Post Graduate Diploma in Sexual & Reproductive Medicine, Fellowship in Rep...read more",500.0,400.0,Iswarya IVF & Fertility Centre Banjara Hills Hyderabad - Best IVF & IUI Treatments,Banjara Hills,09:00:00,17:00:00,Hyderabad,900,08:00
+560,Dr. Sulochana Mortha,Gynaecologist,41.0,"MBBS, MD - Obstetrics & Gynaecology",400.0,300.0,Dr.Sulochana's Hospital,Hafeezpet,10:30:00,13:30:00,Hyderabad,700,03:00
+561,Dr. Sailaja,Gynaecologist,18.0,"MBBS, MD - Obstetrics & Gynaecology, DGO",300.0,300.0,Lakshmi Sailaja Hospital,Jeedimetla,10:00:00,14:00:00,Hyderabad,300,04:00
+562,Dr. Meena Ugale,Gynaecologist,37.0,"MBBS, MD - Obstetrics & Gynaecology, DGO",700.0,300.0,Kirloskar Hospital,Basheerbagh,10:00:00,17:00:00,Hyderabad,700,07:00
+563,Dr. Lakshmi Chirumamilla,Gynaecologist,27.0,"MBBS, MD - Obstetrics & Gynaecology, MRCOG",500.0,300.0,Nova IVF Fertility Clinic -  Hyderabad,Banjara Hills,09:30:00,19:30:00,Hyderabad,500,10:00
+564,Dr. Koka Sreedevi,Gynaecologist,35.0,"MBBS, DGO, D.MAS",600.0,300.0,Srijan Fertility Centre,Jeedimetla,09:00:00,18:00:00,Hyderabad,600,09:00
+565,Dr. Susmitha Gundavaram,Gynaecologist,23.0,"MBBS, MS - Obstetrics and Gynaecology",500.0,300.0,Siri's Clinic for Women & Children,Hyderabad,11:00:00,12:00:00,Hyderabad,500,01:00
+566,Dr. Nikitha Reddy D S,Gynaecologist,10.0,"MBBS, MS - Obstetrics & Gynaecology",500.0,500.0,Vaidya Poly Clinic,Madhapur,18:00:00,20:00:00,Hyderabad,1000,02:00
+567,Dr. M Madhavi,Gynaecologist,33.0,"MBBS, MD - Obstetrics & Gynaecology, DGO",600.0,300.0,Madhavi Clinic,West Marredpally,17:30:00,20:00:00,Hyderabad,600,02:30
+568,Dr. K Nirmala,Gynaecologist,31.0,"MBBS, DGO, DNB",500.0,300.0,Nirmala Maternity,Orthopaedic And General Hospital,19:00:00,20:00:00,Hyderabad,500,01:00
+569,Dr. Wasia Naveed,Gynaecologist,35.0,"MD - Obstetrtics & Gynaecology, MBBS",500.0,300.0,Sahifa Clinic,Malakpet,16:00:00,19:00:00,Hyderabad,500,03:00
+570,Dr. Sridevi Ragi,Gynaecologist,22.0,"MBBS, MD - Obstetrics & Gynaecology",600.0,300.0,Sai Neha Hospital,Kondapur,18:30:00,19:30:00,Hyderabad,600,01:00
+571,Dr. Mini Mohan,Gynaecologist,21.0,"MBBS, DGO, DNB - Obstetrics and Gynecology",600.0,300.0,Ashraya Clinic,Banjara Hills,09:00:00,10:00:00,Hyderabad,600,01:00
+572,Dr. Sarda Reddy,Gynaecologist,34.0,"DGO, MD",600.0,300.0,Shree Hospital,Sri Nagar Colony,19:00:00,21:00:00,Hyderabad,600,02:00
+573,Dr. Vimee Bindra,Gynaecologist,20.0,"MBBS, MS - Obstetrics & Gynaecology, Fellowship in Laparoscopy",500.0,300.0,Unknown,Unknown,10:00:00,13:00:00,Hyderabad,0,03:00
+574,Dr. G Jayanthi,Gynaecologist,22.0,"MBBS, MS - Obstetrics and Gynaecology, Fellowship in Laparoscopy",350.0,300.0,J.S. Hospitals - Ortho,Maternity and General,10:00:00,14:00:00,Hyderabad,350,04:00
+575,Dr. G Premalatha,Gynaecologist,29.0,"MBBS, DGO",600.0,300.0,Vikram Hospital,Madhapur,18:30:00,20:00:00,Hyderabad,600,01:30
+576,Dr. Vrinda Hegde,Gynaecologist,0.0,Not Mentioned,350.0,300.0,Hegde Hospital,Dilsukhnagar,18:30:00,20:30:00,Hyderabad,350,02:00
+577,Dr. Sasikala Kola,Gynaecologist,42.0,Not Mentioned,500.0,300.0,Unknown,Unknown,12:00:00,14:30:00,Hyderabad,0,02:30
+578,Dr. Swathi Hv,Gynaecologist,5.0,"MS - Obstetrics and Gynaecology, DNB (Obstetrics and Gynecology)",500.0,200.0,Care Hospital,Hyderabad,09:30:00,17:00:00,Hyderabad,700,07:30
+579,Dr. Nafeez. S,Gynaecologist,12.0,"MS - Obstetrics and Gynaecology, MBBS",400.0,300.0,Muslim maternity hospital,Hyderabad,09:30:00,16:00:00,Hyderabad,700,06:30
+580,Dr. Jyotsna Prashanth,Gynaecologist,20.0,"MBBS, MS - Obstetrics and Gynaecology",250.0,300.0,Femicare Woman's Clinic and Infertility Centre,Saidabad,10:00:00,13:00:00,Hyderabad,250,03:00
+581,Dr. Radhika Santosh Bhandari,Gynaecologist,29.0,"MBBS, DGO",400.0,300.0,Diya Fertility Centre,Hyderabad,16:00:00,20:00:00,Hyderabad,400,04:00
+582,Dr. Chinmayee Pradhan,Gynaecologist,22.0,"MBBS, DGO, DNB",500.0,300.0,Unknown,Unknown,11:00:00,13:30:00,Hyderabad,0,02:30
+583,Dr. M V D Aruna,Gynaecologist,29.0,"MBBS, DGO, MD - Obstetrics & Gynaecology",700.0,300.0,Oasis Fertility,Hyderabad,10:00:00,17:30:00,Hyderabad,700,07:30
+584,Dr. H Naramada Rao,Gynaecologist,42.0,"MBBS, DGO, DNB - Obstetrics & Gynecology",500.0,300.0,Narmada Fertility Center,Hyderabad,07:00:00,14:00:00,Hyderabad,500,07:00
+585,Dr. Vanamala Swetha,Gynaecologist,16.0,"MBBS, MS - Obstetrics & Gynaecology",500.0,400.0,Madhu's Mother and Child Clinic,Nizampet,17:00:00,18:00:00,Hyderabad,900,01:00
+586,Dr. K  Jansilakshmi,Gynaecologist,38.0,"MBBS, MD - Obstetrics & Gynaecology",150.0,300.0,Sri Bhargavi Hospital,Moti Nagar,18:30:00,20:30:00,Hyderabad,150,02:00
+587,Dr. Padma Kumari,Gynaecologist,33.0,"MBBS, MD - Obstetrics & Gynaecology",500.0,300.0,Omni Hospital,Dilsukhnagar,10:00:00,14:00:00,Hyderabad,500,04:00
+588,Dr. B Kiranmayee,Gynaecologist,16.0,"MBBS, MS - Obstetrics & Gynaecology",550.0,100.0,Kiranmayee Women & Fertility Clinic,Madhapur,10:30:00,13:30:00,Hyderabad,650,03:00
+589,Dr. Narmada H,Gynaecologist,42.0,"MBBS, DGO, DNB - Obstetrics & Gynecology",500.0,300.0,Narmada Test Tube Baby and Speciality Center,East Marredpally,07:00:00,14:00:00,Hyderabad,500,07:00
+590,Dr. B  Radhika,Gynaecologist,24.0,"MBBS, MD - Obstetrics & Gynaecology",600.0,300.0,Medicover Hospitals,Madhapur,11:00:00,15:30:00,Hyderabad,600,04:30
+591,Dr. S Padmavati,Gynaecologist,17.0,"MBBS, DGO",200.0,300.0,Padma clinic,hyderabad,09:00:00,22:00:00,Hyderabad,200,13:00
+592,Dr. Krishna Veni Kandru,Gynaecologist,24.0,"MBBS, DGO",500.0,300.0,Sia Life Hospital (On Call),Kondapur,10:00:00,10:15:00,Hyderabad,500,00:15
+593,Dr. Sushma,Gynaecologist,19.0,"MBBS, DNB - Obstetrics & Gynecology",800.0,300.0,Shreya Hospitals,Hyderabad,09:00:00,15:00:00,Hyderabad,800,06:00
+594,Dr. Padma Chennupaty,Gynaecologist,37.0,"MD - Obstetrics & Gynaecology, MBBS",500.0,300.0,Indira Womens Clinic and Birth Centre,Jubilee Hills,11:00:00,15:00:00,Hyderabad,500,04:00
+595,Dr. Nivedita,Gynaecologist,25.0,"MBBS, MD - Obstetrics & Gynaecology",500.0,300.0,Srishti Women's CLinic    (On Call),Tarnaka,10:00:00,17:00:00,Hyderabad,500,07:00
+596,Dr. Neelima,Gynaecologist,28.0,"MBBS, MD - Obstetrics & Gynaecology, Fellowship in Embryology, Fellowship in Infertility",500.0,300.0,Neelima Hospital,Moti Nagar,10:00:00,14:00:00,Hyderabad,500,04:00
+597,Anusha Patel,Gynaecologist,14.0,"MBBS, MS OBG",300.0,300.0,Habsiguda Polyclinic,Hyderabad,17:00:00,20:00:00,Hyderabad,600,03:00
+598,Dr. Manjula Anagani,Gynaecologist,33.0,"MBBS, Internship, MD (Pathology), MD (Gynaecology & Obstetrics)",500.0,300.0,Unknown,Unknown,11:00:00,13:00:00,Hyderabad,0,02:00
+599,Dr. K Padmaja Devi,Gynaecologist,33.0,"MBBS, DGO",450.0,300.0,Sneha Clinics,KPHB,09:00:00,13:30:00,Hyderabad,450,04:30
+600,Dr. Sindhuri Kapu,Gynaecologist,13.0,"MBBS, DNB - Obstetrics & Gynecology",800.0,500.0,Ankura Hospital for Women & Children - Banjara Hills,Hyderabad,10:00:00,18:00:00,Hyderabad,1300,08:00
+601,Dr. Juhul Arvind Patel,Gynaecologist,8.0,"DNB, DGO, Dip. Hospital Administration, Diploma Gynaecological Endoscopy, Kiel Germany, PG...read more",500.0,300.0,Pristyn Care,Hyderabad,10:00:00,20:00:00,Hyderabad,800,10:00
+602,Dr. Paipuru,Gynaecologist,0.0,Not Mentioned,500.0,300.0,Pristyn Care Clinic,Banjara Hills,17:00:00,20:00:00,Hyderabad,500,03:00
+603,Dr M Swapna Reddy,Gynaecologist,17.0,"MBBS, DGO",500.0,300.0,Pristyn care,Hyderabad,09:00:00,18:30:00,Hyderabad,500,09:30
+604,Dr. Sadhvi Reddy,Gynaecologist,14.0,"Fellowship  In Minimal Access Surgery, MS - Obstetrics and Gynaecology, MBBS",500.0,500.0,Vijay Hospital,Dilsukhnagar,11:00:00,17:00:00,Hyderabad,1000,06:00
+605,Dr. Shaivalini Kamarapu,Gynaecologist,13.0,"MBBS, MS - Obstetrics and Gynaecology, FMAS.Laparoscopy, Cosmetic Gynaecology",600.0,600.0,AMVI Hospital,Hyderabad,17:00:00,20:00:00,Hyderabad,1200,03:00
+606,Dr. Radhika Kandula,Gynaecologist,23.0,"MBBS, DNB (Obstetrics and Gyneacology), FNB Reproductive Medicine",300.0,300.0,Institute of Women Health and Fertility,Kukatpally,10:00:00,13:00:00,Hyderabad,600,03:00
+607,Dr. Vijaya Sree J,Gynaecologist,15.0,"MBBS Bachelor of Medicine and Bachelor of Surgery, Diploma in Obstetrics & Gynaecology, MS...read more",500.0,300.0,VIJAYA SREE CLINIC & DIAGNOSTICS,Habsiguda,12:00:00,17:00:00,Hyderabad,800,05:00
+608,Dr. Vani Cherukuri,Gynaecologist,37.0,"MBBS, MD - Obstetrics & Gynaecology, DGO",500.0,300.0,₹ 1,000 onlineEVA Care Clinic- The Every Woman?s Clinic,10:00:00,17:00:00,Hyderabad,500,07:00
+609,Dr. Padma Gandham Gandham,Gynaecologist,34.0,"MBBS, Diploma in Advanced Obstetrics and Gynaecological Ultrasound",300.0,300.0,SVS Clinic,L B Nagar,17:00:00,20:30:00,Hyderabad,600,03:30
+610,Dr. Sumana T,Gynaecologist,22.0,"MBBS, DGO, Diploma in Anesthesiology",600.0,350.0,SLG HOSPITALS,Hyderabad,09:00:00,14:45:00,Hyderabad,950,05:45
+611,Dr. Vindhya Gemaraju,Gynaecologist,20.0,"MBBS, DNB - Obstetrics & Gynecology, DGO",600.0,350.0,SO Poly Clinic,Hyderabad,18:00:00,21:00:00,Hyderabad,950,03:00
+612,Dr. Usha Rani,Gynaecologist,47.0,"MD - Obstetrics & Gynaecology, Diploma in Obstetrics & Gynaecology, MBBS",800.0,700.0,Yashoda Hospitals,Hyderabad,10:00:00,14:30:00,Hyderabad,1500,04:30
+613,Dr. Hima Deepthi.V,Gynaecologist,17.0,"MBBS, MS - Obstetrics and Gynaecology",500.0,300.0,Nova IVI Fertility,Banjara Hills,09:00:00,18:00:00,Hyderabad,800,09:00
+614,Dr. Srividya Tadru,Gynaecologist,5.0,"MS - Obstetrics and Gynaecology, DNB (Obstetrics and Gynecology), Fellowship in Reproducti...read more",300.0,400.0,Samraksha hospital for women and children,Hastinapuram,17:00:00,20:00:00,Hyderabad,700,03:00
+615,Dr. Radhika  Rani Akkineni,Gynaecologist,22.0,"MBBS, MS - Obstetrics and Gynaecology, Fellowship in Infertility",500.0,600.0,Dr. RADHIKA'S FERTILITY CENTER,Hyderabad,17:00:00,19:30:00,Hyderabad,1100,02:30
+616,Dr. Bkn Sudha,Gynaecologist,15.0,DGO,500.0,300.0,SUDHA HOSPITAL,Hyderabad,17:00:00,20:30:00,Hyderabad,800,03:30
+617,Dr. Madhavi Latha,Gynaecologist,23.0,"MBBS, DNB - Obstetrics & Gynecology, DGO",550.0,300.0,Dr. Madhavi's Gynaecology Clinic,Hyderabad,11:30:00,14:00:00,Hyderabad,550,02:30
+618,Dr. Chandana Galidevara,Gynaecologist,15.0,"MRCOG(UK), MS - Obstetrics & Gynecology, DNB (Obstetrics and Gynecology), Fellowship in Mi...read more",600.0,300.0,Satyasree Clinics & Diagnostics,Kondapur,18:30:00,21:30:00,Hyderabad,600,03:00
+619,Dr. Chandrakanth,Gynaecologist,28.0,"Diploma in Psychology and Sexology, Diploma in Obstetrics & Gynaecology, Royal College of ...read more",500.0,200.0,AKSHAYA HOSPITAL,Hyderabad,11:30:00,14:30:00,Hyderabad,700,03:00
+620,Dr. K Nageswari  Rao,Gynaecologist,33.0,"MD, MBBS",600.0,300.0,Sri Swetha Multi Speciality Daycare Surgical Centre,Hyderabad,10:00:00,16:00:00,Hyderabad,600,06:00
+621,Dr. Nuthalapati Suman Latha,Gynaecologist,22.0,"MBBS, DGO",400.0,500.0,Advanced Endocrine & Diabetes Hospital & Research Center,KPHB,10:00:00,14:00:00,Hyderabad,900,04:00
+622,Dr. T Anuradha,Gynaecologist,37.0,"MBBS, DGO",800.0,600.0,Anu's Gynaec,Test Tube&Fertility  Centre,10:00:00,14:00:00,Hyderabad,1400,04:00
+623,Dr. Anuradha  Koduri,Gynaecologist,51.0,"MD - Obstetrtics & Gynaecology, MBBS, FACOG",500.0,300.0,Unknown,Unknown,14:00:00,18:00:00,Hyderabad,0,04:00
+624,Dr. Durga G Rao,Gynaecologist,31.0,"MRCOG, MBBS Bachelor of Medicine and Bachelor of Surgery, DGO",600.0,300.0,Oasis Fertility,Banjara Hills,09:30:00,17:00:00,Hyderabad,600,07:30
+625,Dr. Sunitha Ilinani,Gynaecologist,27.0,"MD - Obstetrics & Gynaecology, MBBS",700.0,300.0,Apollo Fertility,Banjara Hills,11:00:00,14:00:00,Hyderabad,1000,03:00
+626,Dr. Nasreen  Ashfaq,Gynaecologist,29.0,"Diploma in Obstetrics & Gynaecology, MBBS",650.0,300.0,Femcity Women's Hospital,Shaikpet,13:00:00,16:00:00,Hyderabad,650,03:00
+627,Dr. Sweta Agarwal,Gynaecologist,30.0,"MS - Obstetrics and Gynaecology, FRANZCOG (Fellowship of Royal College of Obstric and Gyne...read more",700.0,300.0,Southern Gem Hospital,Basheerbagh,11:00:00,14:00:00,Hyderabad,700,03:00
+628,Dr. Saraschandrika P. V.,Gynaecologist,61.0,"MBBS Bachelor of Medicine and Bachelor of Surgery, MD - Obstetrics & Gynaecology",600.0,300.0,Banjara12 Hospital,Banjara Hills,19:00:00,21:00:00,Hyderabad,600,02:00
+629,Dr. Amishrita Chintawar,Gynaecologist,11.0,"MS - Obstetrics and Gynaecology, MBBS",300.0,250.0,Manasa Hospital,Ramanthapur,10:00:00,16:00:00,Hyderabad,550,06:00
+630,Dr. S Hima Bindu,Gynaecologist,25.0,"MBBS, DGO",700.0,300.0,Ankura Hospital For Women & Children,Hyderabad,09:00:00,15:00:00,Hyderabad,1000,06:00
+631,Dr. Naaz Fatima,Gynaecologist,9.0,"MBBS, MS - Obstetrics and Gynaecology",400.0,200.0,Alladins Clinic,Masab Tank,17:00:00,20:00:00,Hyderabad,600,03:00
+632,Dr. B.Padmavathi Sreenivas,Gynaecologist,28.0,"MBBS, DGO",600.0,300.0,Sri Sai Womens Hospital,Kothapet,17:00:00,20:30:00,Hyderabad,600,03:30
+633,Dr. Sameera Alluri,Gynaecologist,36.0,"MBBS, MD - Obstetrics & Gynaecology",450.0,300.0,Sri Sri Holistic Hospitals,Nizampet,11:00:00,13:00:00,Hyderabad,450,02:00
+634,Dr. Lakshmi Krishna Leela,Gynaecologist,26.0,"Doctor of Medicine (Obstetrics & Gynaecology), Royal College of Obstetricians & Gynaecolog...read more",800.0,300.0,Elbit Diagnostic Centre,Madhapur,17:00:00,18:00:00,Hyderabad,800,01:00
+635,Dr. Farzana Tasneem,Gynaecologist,39.0,Diploma in Obstetrics & Gynaecology,300.0,300.0,INNU CLINIC,Hyderabad,15:30:00,18:00:00,Hyderabad,600,02:30
+636,Dr. Bhavani Reddy A,Gynaecologist,33.0,"MBBS, MD - Obstetrics & Gynaecology",500.0,300.0,Bhavya Multispeciality Hospital,Nagole,19:00:00,20:00:00,Hyderabad,500,01:00
+637,Dr. Sita Reddy,Gynaecologist,32.0,"MBBS Bachelor of Medicine and Bachelor of Surgery, MD - Obstetrtics & Gynaecology",500.0,500.0,Kindle Clinics,Gachibowli,14:00:00,17:00:00,Hyderabad,1000,03:00
+638,Oasis Fertility,Gynaecologist,0.0,Not Mentioned,700.0,300.0,Oasis Fertility,Banjara Hills,09:00:00,17:00:00,Hyderabad,700,08:00
+639,Dr. Swetha Shesham,Gynaecologist,12.0,"MBBS, MS, F.mas,D.mas, Fellowship in Robotic Surgery, Fellowship in Infertility",400.0,300.0,Lakshmi Health Care Hospital,Vanasthalipuram,10:30:00,14:00:00,Hyderabad,400,03:30
+640,Dr. Bharathi Sudha A,Gynaecologist,12.0,"MS, MBBS, Diploma in Reproductive Medicine (Germany), Senior Resident",600.0,500.0,IVY WOMEN AND FERTILITY,Gachibowli,10:00:00,20:00:00,Hyderabad,1100,10:00
+641,Dr. Arpitha Reddy,Gynaecologist,26.0,"MBBS, DGO, MRCOG(UK)",500.0,300.0,Mums Fertility Center,Kukatpally,21:00:00,21:00:00,Hyderabad,500,00:00
+642,Dr. B. Kiranmayee,Gynaecologist,15.0,"Diploma in Reproductive Medicine (Germany), MS - Obstetrics and Gynaecology, MBBS",550.0,300.0,Dr. Kiranmayee  Woman's Clinic,Gachibowli,10:00:00,13:00:00,Hyderabad,550,03:00
+643,Dr. Balamba P,Gynaecologist,58.0,"MBBS, MD - Obstetrtics & Gynaecology",400.0,300.0,Shalini Hospital,Hyderabad,10:00:00,13:00:00,Hyderabad,400,03:00
+644,Dr. Sravana Soujanya,Gynaecologist,15.0,"MBBS, Diploma in Obstetrics & Gyanecology",700.0,300.0,Medics Healthcare,Nanakramguda,10:15:00,12:30:00,Hyderabad,700,02:15
+645,Dr. Madhavi Reddy,Gynaecologist,29.0,"MBBS, DGO",500.0,200.0,Lucerne Clinic for Ladies,Alwal,10:00:00,13:00:00,Hyderabad,700,03:00
+646,Dr. Ayesha Khaliq,Gynaecologist,22.0,"MBBS, MD - Obstetrtics & Gynaecology",300.0,300.0,Health Inn Clinic,Toli Chowki,17:00:00,19:00:00,Hyderabad,300,02:00
+647,Dr. G S K Jyothi Reddy,Gynaecologist,19.0,"MBBS, DGO",450.0,300.0,Sai Shourya's Test Tube Baby Centre,KPHB,19:30:00,20:00:00,Hyderabad,450,00:30
+648,Dr. Swathi Reddy,Gynaecologist,14.0,"MBBS, DGO",500.0,300.0,Himagiri Hospitals,Gachibowli,11:00:00,13:00:00,Hyderabad,500,02:00
+649,Dr. Manav Chintawar,Gynaecologist,8.0,"MS - Obstetrics and Gynaecology, MBBS",300.0,200.0,Manasa Hospital,Ramanthapur,10:30:00,14:00:00,Hyderabad,500,03:30
+650,Dr. Haritha Yalamanchili,Gynaecologist,25.0,"MBBS, MD - Obstetrics & Gynaecology, MRCOG",400.0,300.0,YPR Health Care,Madhapur,09:30:00,14:30:00,Hyderabad,400,05:00
+651,Dr. Sarada Chithajallu,Gynaecologist,21.0,"MBBS, DGO, MRCOG",300.0,300.0,Pegasus Health Care,Kukatpally,10:00:00,13:00:00,Hyderabad,300,03:00
+652,Dr. Jayashree Reddy,Gynaecologist,45.0,"MBBS, DGO, MD- Gynecology  And Obstetrics",900.0,300.0,Ankura Hospital for Women & Children,Kothaguda,11:00:00,14:00:00,Hyderabad,900,03:00
+653,Dr. Vangallu Padmini Silpa,Gynaecologist,21.0,"MBBS, DGO, DNB - Obstetrics and Gynecology",700.0,300.0,Apollo Cradle Kondapur,Kondapur,19:30:00,20:30:00,Hyderabad,700,01:00
+654,Dr. Sri Latha  Sallangula,Gynaecologist,20.0,"MBBS, DGO",200.0,300.0,Magnas V ENT Hospitals,Dilsukhnagar,12:00:00,14:00:00,Hyderabad,200,02:00
+655,Dr. Anupama Singh,Gynaecologist,33.0,"MBBS, DGO",500.0,300.0,Aries Maternity Hospital,Mehdipatnam,11:00:00,15:00:00,Hyderabad,500,04:00
+656,Dr. Samatha Kumar,Gynaecologist,21.0,"MBBS, DNB - Obstetrics and Gynecology",500.0,300.0,Unknown,Unknown,10:00:00,16:00:00,Hyderabad,0,06:00
+657,Dr. S  Srujana,Gynaecologist,18.0,"MBBS, DGO",500.0,300.0,Prasad Hospital,Nacharam,11:00:00,15:00:00,Hyderabad,500,04:00
+658,Dr. Saroja K,Gynaecologist,28.0,"MBBS, DGO",500.0,300.0,Unknown,Unknown,10:00:00,13:00:00,Hyderabad,0,03:00
+659,Dr. Ragini N,Gynaecologist,10.0,"Mbbs, MS -OBGY, Post Graduate Diploma in Sexual & Reproductive Medicine, Fellowship in Rep...read more",500.0,400.0,Iswarya IVF & Fertility Centre Banjara Hills Hyderabad - Best IVF & IUI Treatments,Banjara Hills,09:00:00,17:00:00,Hyderabad,900,08:00
+660,Dr. Sulochana Mortha,Gynaecologist,41.0,"MBBS, MD - Obstetrics & Gynaecology",400.0,300.0,Dr.Sulochana's Hospital,Hafeezpet,10:30:00,13:30:00,Hyderabad,700,03:00
+661,Dr. Sailaja,Gynaecologist,18.0,"MBBS, MD - Obstetrics & Gynaecology, DGO",300.0,300.0,Lakshmi Sailaja Hospital,Jeedimetla,10:00:00,14:00:00,Hyderabad,300,04:00
+662,Dr. Meena Ugale,Gynaecologist,37.0,"MBBS, MD - Obstetrics & Gynaecology, DGO",700.0,300.0,Kirloskar Hospital,Basheerbagh,10:00:00,17:00:00,Hyderabad,700,07:00
+663,Dr. Lakshmi Chirumamilla,Gynaecologist,27.0,"MBBS, MD - Obstetrics & Gynaecology, MRCOG",500.0,300.0,Nova IVF Fertility Clinic -  Hyderabad,Banjara Hills,09:30:00,19:30:00,Hyderabad,500,10:00
+664,Dr. Koka Sreedevi,Gynaecologist,35.0,"MBBS, DGO, D.MAS",600.0,300.0,Srijan Fertility Centre,Jeedimetla,09:00:00,18:00:00,Hyderabad,600,09:00
+665,Dr. Susmitha Gundavaram,Gynaecologist,23.0,"MBBS, MS - Obstetrics and Gynaecology",500.0,300.0,Siri's Clinic for Women & Children,Hyderabad,11:00:00,12:00:00,Hyderabad,500,01:00
+666,Dr. Nikitha Reddy D S,Gynaecologist,10.0,"MBBS, MS - Obstetrics & Gynaecology",500.0,500.0,Vaidya Poly Clinic,Madhapur,18:00:00,20:00:00,Hyderabad,1000,02:00
+667,Dr. M Madhavi,Gynaecologist,33.0,"MBBS, MD - Obstetrics & Gynaecology, DGO",600.0,300.0,Madhavi Clinic,West Marredpally,17:30:00,20:00:00,Hyderabad,600,02:30
+668,Dr. K Nirmala,Gynaecologist,31.0,"MBBS, DGO, DNB",500.0,300.0,Nirmala Maternity,Orthopaedic And General Hospital,19:00:00,20:00:00,Hyderabad,500,01:00
+669,Dr. Wasia Naveed,Gynaecologist,35.0,"MD - Obstetrtics & Gynaecology, MBBS",500.0,300.0,Sahifa Clinic,Malakpet,16:00:00,19:00:00,Hyderabad,500,03:00
+670,Dr. Sridevi Ragi,Gynaecologist,22.0,"MBBS, MD - Obstetrics & Gynaecology",600.0,300.0,Sai Neha Hospital,Kondapur,18:30:00,19:30:00,Hyderabad,600,01:00
+671,Dr. Mini Mohan,Gynaecologist,21.0,"MBBS, DGO, DNB - Obstetrics and Gynecology",600.0,300.0,Ashraya Clinic,Banjara Hills,09:00:00,10:00:00,Hyderabad,600,01:00
+672,Dr. Sarda Reddy,Gynaecologist,34.0,"DGO, MD",600.0,300.0,Shree Hospital,Sri Nagar Colony,19:00:00,21:00:00,Hyderabad,600,02:00
+673,Dr. Vimee Bindra,Gynaecologist,20.0,"MBBS, MS - Obstetrics & Gynaecology, Fellowship in Laparoscopy",500.0,300.0,Unknown,Unknown,10:00:00,13:00:00,Hyderabad,0,03:00
+674,Dr. G Jayanthi,Gynaecologist,22.0,"MBBS, MS - Obstetrics and Gynaecology, Fellowship in Laparoscopy",350.0,300.0,J.S. Hospitals - Ortho,Maternity and General,10:00:00,14:00:00,Hyderabad,350,04:00
+675,Dr. G Premalatha,Gynaecologist,29.0,"MBBS, DGO",600.0,300.0,Vikram Hospital,Madhapur,18:30:00,20:00:00,Hyderabad,600,01:30
+676,Dr. Vrinda Hegde,Gynaecologist,0.0,Not Mentioned,350.0,300.0,Hegde Hospital,Dilsukhnagar,18:30:00,20:30:00,Hyderabad,350,02:00
+677,Dr. Sasikala Kola,Gynaecologist,42.0,Not Mentioned,500.0,300.0,Unknown,Unknown,12:00:00,14:30:00,Hyderabad,0,02:30
+678,Dr. Swathi Hv,Gynaecologist,5.0,"MS - Obstetrics and Gynaecology, DNB (Obstetrics and Gynecology)",500.0,200.0,Care Hospital,Hyderabad,09:30:00,17:00:00,Hyderabad,700,07:30
+679,Dr. Nafeez. S,Gynaecologist,12.0,"MS - Obstetrics and Gynaecology, MBBS",400.0,300.0,Muslim maternity hospital,Hyderabad,09:30:00,16:00:00,Hyderabad,700,06:30
+680,Dr. Jyotsna Prashanth,Gynaecologist,20.0,"MBBS, MS - Obstetrics and Gynaecology",250.0,300.0,Femicare Woman's Clinic and Infertility Centre,Saidabad,10:00:00,13:00:00,Hyderabad,250,03:00
+681,Dr. Radhika Santosh Bhandari,Gynaecologist,29.0,"MBBS, DGO",400.0,300.0,Diya Fertility Centre,Hyderabad,16:00:00,20:00:00,Hyderabad,400,04:00
+682,Dr. Chinmayee Pradhan,Gynaecologist,22.0,"MBBS, DGO, DNB",500.0,300.0,Unknown,Unknown,11:00:00,13:30:00,Hyderabad,0,02:30
+683,Dr. M V D Aruna,Gynaecologist,29.0,"MBBS, DGO, MD - Obstetrics & Gynaecology",700.0,300.0,Oasis Fertility,Hyderabad,10:00:00,17:30:00,Hyderabad,700,07:30
+684,Dr. H Naramada Rao,Gynaecologist,42.0,"MBBS, DGO, DNB - Obstetrics & Gynecology",500.0,300.0,Narmada Fertility Center,Hyderabad,07:00:00,14:00:00,Hyderabad,500,07:00
+685,Dr. Vanamala Swetha,Gynaecologist,16.0,"MBBS, MS - Obstetrics & Gynaecology",500.0,400.0,Madhu's Mother and Child Clinic,Nizampet,17:00:00,18:00:00,Hyderabad,900,01:00
+686,Dr. K  Jansilakshmi,Gynaecologist,38.0,"MBBS, MD - Obstetrics & Gynaecology",150.0,300.0,Sri Bhargavi Hospital,Moti Nagar,18:30:00,20:30:00,Hyderabad,150,02:00
+687,Dr. Padma Kumari,Gynaecologist,33.0,"MBBS, MD - Obstetrics & Gynaecology",500.0,300.0,Omni Hospital,Dilsukhnagar,10:00:00,14:00:00,Hyderabad,500,04:00
+688,Dr. B Kiranmayee,Gynaecologist,16.0,"MBBS, MS - Obstetrics & Gynaecology",550.0,100.0,Kiranmayee Women & Fertility Clinic,Madhapur,10:30:00,13:30:00,Hyderabad,650,03:00
+689,Dr. Narmada H,Gynaecologist,42.0,"MBBS, DGO, DNB - Obstetrics & Gynecology",500.0,300.0,Narmada Test Tube Baby and Speciality Center,East Marredpally,07:00:00,14:00:00,Hyderabad,500,07:00
+690,Dr. B  Radhika,Gynaecologist,24.0,"MBBS, MD - Obstetrics & Gynaecology",600.0,300.0,Medicover Hospitals,Madhapur,11:00:00,15:30:00,Hyderabad,600,04:30
+691,Dr. S Padmavati,Gynaecologist,17.0,"MBBS, DGO",200.0,300.0,Padma clinic,hyderabad,09:00:00,22:00:00,Hyderabad,200,13:00
+692,Dr. Krishna Veni Kandru,Gynaecologist,24.0,"MBBS, DGO",500.0,300.0,Sia Life Hospital (On Call),Kondapur,10:00:00,10:15:00,Hyderabad,500,00:15
+693,Dr. Sushma,Gynaecologist,19.0,"MBBS, DNB - Obstetrics & Gynecology",800.0,300.0,Shreya Hospitals,Hyderabad,09:00:00,15:00:00,Hyderabad,800,06:00
+694,Dr. Padma Chennupaty,Gynaecologist,37.0,"MD - Obstetrics & Gynaecology, MBBS",500.0,300.0,Indira Womens Clinic and Birth Centre,Jubilee Hills,11:00:00,15:00:00,Hyderabad,500,04:00
+695,Dr. Nivedita,Gynaecologist,25.0,"MBBS, MD - Obstetrics & Gynaecology",500.0,300.0,Srishti Women's CLinic    (On Call),Tarnaka,10:00:00,17:00:00,Hyderabad,500,07:00
+696,Dr. Neelima,Gynaecologist,28.0,"MBBS, MD - Obstetrics & Gynaecology, Fellowship in Embryology, Fellowship in Infertility",500.0,300.0,Neelima Hospital,Moti Nagar,10:00:00,14:00:00,Hyderabad,500,04:00
+697,Anusha Patel,Gynaecologist,14.0,"MBBS, MS OBG",300.0,300.0,Habsiguda Polyclinic,Hyderabad,17:00:00,20:00:00,Hyderabad,600,03:00
+698,Dr. Manjula Anagani,Gynaecologist,33.0,"MBBS, Internship, MD (Pathology), MD (Gynaecology & Obstetrics)",500.0,300.0,Unknown,Unknown,11:00:00,13:00:00,Hyderabad,0,02:00
+699,Dr. K Padmaja Devi,Gynaecologist,33.0,"MBBS, DGO",450.0,300.0,Sneha Clinics,KPHB,09:00:00,13:30:00,Hyderabad,450,04:30
